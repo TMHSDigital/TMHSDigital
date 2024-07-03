@@ -2,10 +2,10 @@
 
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="#top-languages" style="text-decoration: none;">
+    ><a href="#top-languages" style="text-decoration: none;">
         <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
     </a>
-    <a href="#connect-with-me" style="text-decoration: none;">
+    ><a href="#connect-with-me" style="text-decoration: none;">
         <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
     </a>
     <a href="#streak" style="text-decoration: none;">
