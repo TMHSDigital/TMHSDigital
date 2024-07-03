@@ -26,7 +26,7 @@
 
 ---
 
-> ### Top 3 Projects
+> #### Top 3 Projects
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
@@ -36,7 +36,7 @@
 
 ---
 
-> ### Technologies and Tools
+> #### Technologies and Tools
 
 -
 
@@ -139,13 +139,13 @@
 
 ---
 
-> ## Top Languages
+> #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
 
 ---
 
-> ## Skills
-##### areas of expertise
+> ### Skills
+###### areas of expertise
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -154,14 +154,14 @@
 
 ---
 
-> ## Connect with Me
+> ### Connect with Me
 
-##### TM Hospitality Strategies
+###### TM Hospitality Strategies
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
-##### Content Creation
+###### Content Creation
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
@@ -169,11 +169,11 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-##### Personal
+###### Personal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 
-### Streak
+#### Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 
