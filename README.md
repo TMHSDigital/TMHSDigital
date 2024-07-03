@@ -1,33 +1,28 @@
 # Welcome to my GitHub profile
+
 ##### Table of Contents
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
+        <img src="https://img.shields.io/badge/Top%20Languages-ff4c4c?style=for-the-badge&logo=appveyor" alt="Top Languages">
     </a>
     <a href="#connect-with-me" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
+        <img src="https://img.shields.io/badge/Connect%20with%20Me-ff4c4c?style=for-the-badge&logo=appveyor" alt="Connect with Me">
     </a>
     <a href="#streak" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
+        <img src="https://img.shields.io/badge/Streak-ff4c4c?style=for-the-badge&logo=appveyor" alt="Streak">
     </a>
     <a href="#skills" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Skills</button>
+        <img src="https://img.shields.io/badge/Skills-ff4c4c?style=for-the-badge&logo=appveyor" alt="Skills">
     </a>
     <a href="#top-3-projects" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top 3 Projects</button>
+        <img src="https://img.shields.io/badge/Top%203%20Projects-ff4c4c?style=for-the-badge&logo=appveyor" alt="Top 3 Projects">
     </a>
     <a href="#consulting-services" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Consulting Services</button>
+        <img src="https://img.shields.io/badge/Consulting%20Services-ff4c4c?style=for-the-badge&logo=appveyor" alt="Consulting Services">
     </a>
 </div>
 </div>
-
----
-
----
-
----
 
 ---
 
@@ -38,8 +33,6 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat&logo=github&logoColor=white)](https://pages.github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-
----
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat&logo=python&logoColor=white)](https://www.pygame.org/)
@@ -59,15 +52,11 @@
 [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
----
-
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)](https://beta.openai.com/)
 [![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/)
 [![aimlapi](https://img.shields.io/badge/aimlapi-3776AB?style=flat&logo=python&logoColor=white)](https://docs.aimlapi.com/quickstart/supported-sdks)
 [![Numverify](https://img.shields.io/badge/Numverify-1A82E2?style=flat&logo=numverify&logoColor=white)](https://numverify.com/)
 [![SearchAPI.io](https://img.shields.io/badge/SearchAPI.io-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
-
----
 
 [![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)](https://vivid-commerce.com/)
 [![Hostinger](https://img.shields.io/badge/Hostinger-FF9900?style=flat&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
@@ -75,8 +64,6 @@
 [![Wix](https://img.shields.io/badge/Wix-FAAE42?style=flat&logo=wix&logoColor=black)](https://www.wix.com/)
 [![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![CJ Dropshipping](https://img.shields.io/badge/CJ%20Dropshipping-FF6F00?style=flat&logo=cj%20dropshipping&logoColor=white)](https://cjdropshipping.com/)
-
----
 
 [![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=flat&logo=doordash&logoColor=white)](https://www.doordash.com/)
 [![UberEats](https://img.shields.io/badge/UberEats-5FB709?style=flat&logo=ubereats&logoColor=white)](https://www.ubereats.com/)
@@ -90,8 +77,6 @@
 [![ADP](https://img.shields.io/badge/ADP-EE2722?style=flat&logo=adp&logoColor=white)](https://www.adp.com/)
 [![Savant](https://img.shields.io/badge/Savant-1D1F21?style=flat&logo=savant&logoColor=white)](https://www.savant.com/)
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -102,15 +87,11 @@
 [![Meta](https://img.shields.io/badge/Meta-4267B2?style=flat&logo=meta&logoColor=white)](https://about.fb.com/news/tag/meta/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
 
----
-
 [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9900?style=flat&logo=davinci%20resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/)
 [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)](https://www.capcut.com/)
 [![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)](https://www.videoleapapp.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
-
----
 
 [![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)](https://workspace.google.com/)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/)
@@ -119,8 +100,6 @@
 [![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?style=flat&logo=google-slides&logoColor=white)](https://www.google.com/slides/about/)
 [![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white)](https://fonts.google.com/)
-
----
 
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoft-onedrive&logoColor=white)](https://onedrive.live.com/)
@@ -148,14 +127,10 @@
 
 > ## Connect with Me
 
----
-
 ##### TM Hospitality Strategies
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
-
----
 
 ##### Content Creation
 
@@ -165,19 +140,13 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
----
-
 ##### Personal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 
----
-
 ### Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
-
----
 
 > ### Top 3 Projects
 
@@ -187,35 +156,33 @@
     <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
 </div>
 
----
-
 <details>
   <summary>More Information</summary>
   <p>Coming Soon!</p>
 </details>
 
 <details>
-  ## <summary>Consulting Services</summary> ##
+  <summary>Consulting Services</summary>
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
-  ## Our Services ##
+  ### Our Services
 
-  #### Operational Optimization ####
+  #### Operational Optimization
   - **Menu Engineering**: Improve your menu design and offerings to maximize profitability.
   - **Staff Training**: Enhance team efficiency with customized training programs.
   - **Cost Control**: Implement effective cost management strategies to boost your bottom line.
 
-  #### Digital Transformation ####
+  #### Digital Transformation
   - **E-commerce Solutions**: Develop and optimize your online store for increased sales.
   - **Website Development**: Create a robust online presence with a professional website.
   - **SEO & Marketing**: Improve your online visibility and attract more customers with targeted marketing strategies.
 
-  #### Technology Integration ####
+  #### Technology Integration
   - **POS Systems**: Integrate modern POS systems to streamline operations.
   - **Data Analytics**: Utilize data analytics to make informed business decisions.
   - **API Integration**: Seamlessly connect different systems for a unified operation.
 
-  ## Why Choose Us? ##
+  ### Why Choose Us?
 
   With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with the tools to come in and quickly optimize your store. We offer:
 
@@ -223,7 +190,7 @@
   - **Customization**: Custom solutions tailored to meet your specific needs.
   - **Results-Driven**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
 
-  ### Contact Us ###
+  ### Contact Us
 
   Ready to transform your business? Contact us today to schedule a consultation.
 
