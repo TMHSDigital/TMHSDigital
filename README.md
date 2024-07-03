@@ -37,11 +37,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-# Streak
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=dark)
-
-# Contribution Stats
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TMHSDigital)](https://github.com/LordDashMe/github-contribution-stats)
 
 # Skills
 
