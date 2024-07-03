@@ -72,7 +72,7 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
 ![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)
 
-![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)
+[![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)](https://workspace.google.com/)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 
