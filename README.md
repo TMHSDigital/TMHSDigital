@@ -36,7 +36,7 @@
 [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
----
+-
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat&logo=python&logoColor=white)](https://www.pygame.org/)
