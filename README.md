@@ -25,14 +25,33 @@
 
 ## Technologies and Tools
 
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat&logo=github&logoColor=white)](https://pages.github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Pinokio](https://img.shields.io/badge/Pinokio-FF4500?style=flat&logo=pinokio&logoColor=white)](https://www.pinokio.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat&logo=python&logoColor=white)](https://www.pygame.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-ffcd3c?style=flat&logo=tkinter&logoColor=white)](https://wiki.python.org/moin/TkInter)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SearchAPI.io](https://img.shields.io/badge/SearchAPI.io-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white)](https://fonts.google.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)](https://trello.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+[![API Integrations](https://img.shields.io/badge/API%20Integrations-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
+[![aimlapi](https://img.shields.io/badge/aimlapi-3776AB?style=flat&logo=python&logoColor=white)](https://docs.aimlapi.com/quickstart/supported-sdks)
 
 
 [![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)](https://vivid-commerce.com/)
@@ -43,42 +62,58 @@
 [![CJ Dropshipping](https://img.shields.io/badge/CJ%20Dropshipping-FF6F00?style=flat&logo=cj%20dropshipping&logoColor=white)](https://cjdropshipping.com/)
 
 
-![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=flat&logo=doordash&logoColor=white)
-![UberEats](https://img.shields.io/badge/UberEats-5FB709?style=flat&logo=ubereats&logoColor=white)
-![Deliverect](https://img.shields.io/badge/Deliverect-00CC88?style=flat&logo=deliverect&logoColor=white)
-![Stream Delivery](https://img.shields.io/badge/Stream%20Delivery-1E90FF?style=flat&logo=stream&logoColor=white)
+[![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=flat&logo=doordash&logoColor=white)](https://www.doordash.com/)
+[![UberEats](https://img.shields.io/badge/UberEats-5FB709?style=flat&logo=ubereats&logoColor=white)](https://www.ubereats.com/)
+[![Deliverect](https://img.shields.io/badge/Deliverect-00CC88?style=flat&logo=deliverect&logoColor=white)](https://www.deliverect.com/)
+[![Stream Delivery](https://img.shields.io/badge/Stream%20Delivery-1E90FF?style=flat&logo=stream&logoColor=white)](https://www.streamdelivery.com/)
+[![Tevalis](https://img.shields.io/badge/Tevalis-FF6600?style=flat&logo=tevalis&logoColor=white)](https://www.tevalis.com/)
+[![GoTab](https://img.shields.io/badge/GoTab-006400?style=flat&logo=gotab&logoColor=white)](https://gotab.io/)
+[![Micros](https://img.shields.io/badge/Micros-0A66C2?style=flat&logo=micros&logoColor=white)](https://www.oracle.com/industries/food-beverage/products/micros-systems/)
+[![7shifts](https://img.shields.io/badge/7shifts-0073e6?style=flat&logo=7shifts&logoColor=white)](https://www.7shifts.com/)
+[![TripleSeat](https://img.shields.io/badge/TripleSeat-FF6600?style=flat&logo=tripleseat&logoColor=white)](https://www.tripleseat.com/)
+[![ADP](https://img.shields.io/badge/ADP-EE2722?style=flat&logo=adp&logoColor=white)](https://www.adp.com/)
+[![Savant](https://img.shields.io/badge/Savant-1D1F21?style=flat&logo=savant&logoColor=white)](https://www.savant.com/)
 
 
-![Tevalis](https://img.shields.io/badge/Tevalis-FF6600?style=flat&logo=tevalis&logoColor=white)
-![GoTab](https://img.shields.io/badge/GoTab-006400?style=flat&logo=gotab&logoColor=white)
-![Micros](https://img.shields.io/badge/Micros-0A66C2?style=flat&logo=micros&logoColor=white)
-![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/)
+[![Kick](https://img.shields.io/badge/Kick-52C832?style=flat&logo=kick&logoColor=white)](https://kick.com/)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)](https://www.xbox.com/)
+[![Meta](https://img.shields.io/badge/Meta-4267B2?style=flat&logo=meta&logoColor=white)](https://about.fb.com/news/tag/meta/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9900?style=flat&logo=davinci%20resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)](https://www.capcut.com/)
+[![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)](https://www.videoleapapp.com/)
 
-
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)
-![Kick](https://img.shields.io/badge/Kick-52C832?style=flat&logo=kick&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-4267B2?style=flat&logo=meta&logoColor=white)
-
-
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9900?style=flat&logo=davinci%20resolve&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
-![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)
 
 [![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)](https://workspace.google.com/)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
+[![Google Forms](https://img.shields.io/badge/Google%20Forms-4285F4?style=flat&logo=google-forms&logoColor=white)](https://forms.google.com/)
+[![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?style=flat&logo=google-slides&logoColor=white)](https://www.google.com/slides/about/)
+[![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com/)
+[![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoft-onedrive&logoColor=white)](https://onedrive.live.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+
+
+
+
+
+
+
+
+
 
 ## Top Languages
 
@@ -108,7 +143,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 
 ## Skills
-
+### Confident about
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
