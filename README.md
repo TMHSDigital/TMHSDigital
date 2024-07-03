@@ -50,9 +50,12 @@
 [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-[![API Integrations](https://img.shields.io/badge/API%20Integrations-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
-[![aimlapi](https://img.shields.io/badge/aimlapi-3776AB?style=flat&logo=python&logoColor=white)](https://docs.aimlapi.com/quickstart/supported-sdks)
 
+[![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)](https://beta.openai.com/)
+[![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/)
+[![aimlapi](https://img.shields.io/badge/aimlapi-3776AB?style=flat&logo=python&logoColor=white)](https://docs.aimlapi.com/quickstart/supported-sdks)
+[![Numverify](https://img.shields.io/badge/Numverify-1A82E2?style=flat&logo=numverify&logoColor=white)](https://numverify.com/)
+[![SearchAPI.io](https://img.shields.io/badge/SearchAPI.io-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
 
 [![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)](https://vivid-commerce.com/)
 [![Hostinger](https://img.shields.io/badge/Hostinger-FF9900?style=flat&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
@@ -90,6 +93,7 @@
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9900?style=flat&logo=davinci%20resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/)
 [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)](https://www.capcut.com/)
 [![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)](https://www.videoleapapp.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
 
 
 [![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)](https://workspace.google.com/)
