@@ -35,12 +35,12 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 
-![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-FF9900?style=flat&logo=hostinger&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-FAAE42?style=flat&logo=wix&logoColor=black)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![CJ Dropshipping](https://img.shields.io/badge/CJ%20Dropshipping-FF6F00?style=flat&logo=cj%20dropshipping&logoColor=white)
+[![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)](https://vivid-commerce.com/)
+[![Hostinger](https://img.shields.io/badge/Hostinger-FF9900?style=flat&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Wix](https://img.shields.io/badge/Wix-FAAE42?style=flat&logo=wix&logoColor=black)](https://www.wix.com/)
+[![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
+[![CJ Dropshipping](https://img.shields.io/badge/CJ%20Dropshipping-FF6F00?style=flat&logo=cj%20dropshipping&logoColor=white)](https://cjdropshipping.com/)
 
 
 ![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=flat&logo=doordash&logoColor=white)
