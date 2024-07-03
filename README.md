@@ -57,6 +57,7 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
@@ -89,11 +90,13 @@
 [![UberEats](https://img.shields.io/badge/UberEats-5FB709?style=flat&logo=ubereats&logoColor=white)](https://www.ubereats.com/)
 [![Deliverect](https://img.shields.io/badge/Deliverect-00CC88?style=flat&logo=deliverect&logoColor=white)](https://www.deliverect.com/)
 [![Stream Delivery](https://img.shields.io/badge/Stream%20Delivery-1E90FF?style=flat&logo=stream&logoColor=white)](https://www.streamdelivery.com/)
+
 [![Tevalis](https://img.shields.io/badge/Tevalis-FF6600?style=flat&logo=tevalis&logoColor=white)](https://www.tevalis.com/)
 [![GoTab](https://img.shields.io/badge/GoTab-006400?style=flat&logo=gotab&logoColor=white)](https://gotab.io/)
 [![Micros](https://img.shields.io/badge/Micros-0A66C2?style=flat&logo=micros&logoColor=white)](https://www.oracle.com/industries/food-beverage/products/micros-systems/)
 [![7shifts](https://img.shields.io/badge/7shifts-0073e6?style=flat&logo=7shifts&logoColor=white)](https://www.7shifts.com/)
 [![TripleSeat](https://img.shields.io/badge/TripleSeat-FF6600?style=flat&logo=tripleseat&logoColor=white)](https://www.tripleseat.com/)
+
 [![ADP](https://img.shields.io/badge/ADP-EE2722?style=flat&logo=adp&logoColor=white)](https://www.adp.com/)
 [![Savant](https://img.shields.io/badge/Savant-1D1F21?style=flat&logo=savant&logoColor=white)](https://www.savant.com/)
 
@@ -102,12 +105,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 [![Kick](https://img.shields.io/badge/Kick-52C832?style=flat&logo=kick&logoColor=white)](https://kick.com/)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)](https://www.xbox.com/)
 [![Meta](https://img.shields.io/badge/Meta-4267B2?style=flat&logo=meta&logoColor=white)](https://about.fb.com/news/tag/meta/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
+
 
 -
 
@@ -188,7 +193,7 @@
   <summary>Consulting Services</summary>
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
-  ### Our Services
+  ## Our Services
 
   #### Operational Optimization
   - **Menu Engineering**: Improve your menu design and offerings to maximize profitability.
@@ -205,7 +210,7 @@
   - **Data Analytics**: Utilize data analytics to make informed business decisions.
   - **API Integration**: Seamlessly connect different systems for a unified operation.
 
-  ### Why Choose Us?
+  ## Why Choose Us?
 
   With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with the tools to come in and quickly optimize your store. We offer:
 
@@ -213,7 +218,7 @@
   - **Customization**: Custom solutions tailored to meet your specific needs.
   - **Results-Driven**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
 
-  ### Contact Us
+  ## Contact Us
 
   Ready to transform your business? Contact us today to schedule a consultation.
 
