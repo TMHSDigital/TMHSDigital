@@ -23,7 +23,7 @@
 </div>
 </div>
 
->>> ## Technologies and Tools
+> ## Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -98,29 +98,29 @@
   - **Cost Control: Implement effective cost management strategies to boost your bottom line.
 
   #### Digital Transformation ####
-  - **E-commerce Solutions: Develop and optimize your online store for increased sales.
-  - **Website Development: Create a robust online presence with a professional website.
-  - **SEO & Marketing: Improve your online visibility and attract more customers with targeted marketing strategies.
+  - E-commerce Solutions: Develop and optimize your online store for increased sales.
+  - Website Development: Create a robust online presence with a professional website.
+  - SEO & Marketing: Improve your online visibility and attract more customers with targeted marketing strategies.
 
   #### Technology Integration ####
-  - **POS Systems: Integrate modern POS systems to streamline operations.
-  - **Data Analytics: Utilize data analytics to make informed business decisions.
-  - **API Integration: Seamlessly connect different systems for a unified operation.
+  - POS Systems: Integrate modern POS systems to streamline operations.
+  - Data Analytics: Utilize data analytics to make informed business decisions.
+  - API Integration: Seamlessly connect different systems for a unified operation.
 
   ### Why Choose Us? ###
 
   With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with the tools to come in and quickly optimize your store. We offer:
 
-  - **Expertise:** Decades of experience in the hospitality industry.
-  - **Customization:** Tailored solutions to meet your specific needs.
-  - **Results-Driven:** Focused on delivering measurable results.
+  - Expertise: Decades of experience in the hospitality industry.
+  - Customization: Tailored solutions to meet your specific needs.
+  - Results-Driven: Focused on delivering measurable results.
 
  > ### Contact Us ###
 
   Ready to transform your business? Contact us today to schedule a consultation.
 
-  - **Email: [TMHospitalityStrategies@gmail.com](mailto:TMHospitalityStrategies@gmail.com)
-  - **LinkedIn: [Thomas Mathes](https://www.linkedin.com/in/thomasmathes1/)
+  - Email: [TMHospitalityStrategies@gmail.com](mailto:TMHospitalityStrategies@gmail.com)
+  - LinkedIn: [Thomas Mathes](https://www.linkedin.com/in/thomasmathes1/)
 
   For more information, visit our [website](https://tmhs-shop.myshopify.com).
 
