@@ -26,7 +26,17 @@
 
 ---
 
-> ## Technologies and Tools
+> ### Top 3 Projects
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
+    <a href="https://github.com/TMHSDigital/TMHS.github.io"><img src="https://img.shields.io/badge/-TMHS.github.io-blue?style=flat&logo=github&logoColor=white" alt="TMHS.github.io"></a>
+    <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
+</div>
+
+---
+
+> ### Technologies and Tools
 
 -
 
@@ -167,13 +177,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 
-> ### Top 3 Projects
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
-    <a href="https://github.com/TMHSDigital/TMHS.github.io"><img src="https://img.shields.io/badge/-TMHS.github.io-blue?style=flat&logo=github&logoColor=white" alt="TMHS.github.io"></a>
-    <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
-</div>
+---
 
 <details>
   <summary>More Information</summary>
