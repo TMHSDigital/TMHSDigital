@@ -4,22 +4,22 @@
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Top%20Languages-ff4c4c?style=for-the-badge&logo=appveyor" alt="Top Languages">
+        <img src="https://img.shields.io/badge/Top%20Languages-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Top Languages">
     </a>
     <a href="#connect-with-me" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Connect%20with%20Me-ff4c4c?style=for-the-badge&logo=appveyor" alt="Connect with Me">
+        <img src="https://img.shields.io/badge/Connect%20with%20Me-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Connect with Me">
     </a>
     <a href="#streak" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Streak-ff4c4c?style=for-the-badge&logo=appveyor" alt="Streak">
+        <img src="https://img.shields.io/badge/Streak-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Streak">
     </a>
     <a href="#skills" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Skills-ff4c4c?style=for-the-badge&logo=appveyor" alt="Skills">
+        <img src="https://img.shields.io/badge/Skills-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Skills">
     </a>
     <a href="#top-3-projects" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Top%203%20Projects-ff4c4c?style=for-the-badge&logo=appveyor" alt="Top 3 Projects">
+        <img src="https://img.shields.io/badge/Top%203%20Projects-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Top 3 Projects">
     </a>
     <a href="#consulting-services" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Consulting%20Services-ff4c4c?style=for-the-badge&logo=appveyor" alt="Consulting Services">
+        <img src="https://img.shields.io/badge/Consulting%20Services-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Consulting Services">
     </a>
 </div>
 </div>
