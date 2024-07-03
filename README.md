@@ -59,8 +59,6 @@
 2. **[TMHS.github.io](https://github.com/TMHSDigital/TMHS.github.io)**: The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
 3. **[TMHSDigital](https://github.com/TMHSDigital/TMHSDigital)**: My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <details>
   <summary>More Information</summary>
   <p>Coming Soon!</p>
