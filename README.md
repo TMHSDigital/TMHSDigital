@@ -38,15 +38,13 @@
 
 > ### Technologies and Tools
 
--
-
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat&logo=github&logoColor=white)](https://pages.github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
--
+---
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-306998?style=flat&logo=python&logoColor=white)](https://www.pygame.org/)
@@ -58,6 +56,8 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+---
+
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
@@ -67,7 +67,7 @@
 [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
--
+---
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)](https://beta.openai.com/)
 [![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/)
@@ -75,7 +75,7 @@
 [![Numverify](https://img.shields.io/badge/Numverify-1A82E2?style=flat&logo=numverify&logoColor=white)](https://numverify.com/)
 [![SearchAPI.io](https://img.shields.io/badge/SearchAPI.io-FF6F61?style=flat&logo=api&logoColor=white)](https://searchapi.io/)
 
--
+---
 
 [![Vivid Commerce](https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=flat&logo=vivid&logoColor=white)](https://vivid-commerce.com/)
 [![Hostinger](https://img.shields.io/badge/Hostinger-FF9900?style=flat&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
@@ -84,7 +84,7 @@
 [![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![CJ Dropshipping](https://img.shields.io/badge/CJ%20Dropshipping-FF6F00?style=flat&logo=cj%20dropshipping&logoColor=white)](https://cjdropshipping.com/)
 
--
+---
 
 [![DoorDash](https://img.shields.io/badge/DoorDash-FF3008?style=flat&logo=doordash&logoColor=white)](https://www.doordash.com/)
 [![UberEats](https://img.shields.io/badge/UberEats-5FB709?style=flat&logo=ubereats&logoColor=white)](https://www.ubereats.com/)
@@ -100,12 +100,14 @@
 [![ADP](https://img.shields.io/badge/ADP-EE2722?style=flat&logo=adp&logoColor=white)](https://www.adp.com/)
 [![Savant](https://img.shields.io/badge/Savant-1D1F21?style=flat&logo=savant&logoColor=white)](https://www.savant.com/)
 
--
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
+
+---
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/)
@@ -114,7 +116,7 @@
 [![Meta](https://img.shields.io/badge/Meta-4267B2?style=flat&logo=meta&logoColor=white)](https://about.fb.com/news/tag/meta/)
 
 
--
+---
 
 [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9900?style=flat&logo=davinci%20resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/)
@@ -122,7 +124,7 @@
 [![Videoleap](https://img.shields.io/badge/Videoleap-FF0000?style=flat&logo=videoleap&logoColor=white)](https://www.videoleapapp.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
 
--
+---
 
 [![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat&logo=google&logoColor=white)](https://workspace.google.com/)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/)
@@ -132,15 +134,11 @@
 [![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white)](https://fonts.google.com/)
 
--
-
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoft-onedrive&logoColor=white)](https://onedrive.live.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-
--
 
 ---
 
