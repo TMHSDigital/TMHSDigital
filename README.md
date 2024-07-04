@@ -26,7 +26,9 @@
 
 ---
 
-### Top 3 Projects
+___
+
+## _Top 3 Projects_
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
     <a href="https://github.com/TMHSDigital/local-ai"><img src="https://img.shields.io/badge/-local%20ai-blue?style=flat&logo=github&logoColor=white" alt="local ai"></a>
@@ -34,8 +36,11 @@
 </div>
 
 ---
+___
 
-> ### Technologies and Tools
+## _Technologies and Tools_
+
+---
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
@@ -141,12 +146,19 @@
 
 ---
 
-> ### Top Languages
+___
+
+## _Top Languages_
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
 
 ---
 
-> ### Skills
+___
+
+## _Skills_
 ###### areas of expertise
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -156,7 +168,9 @@
 
 ---
 
-> ## Connect with Me
+___
+
+## _Connect with Me_
 
 ##### TM Hospitality Strategies
 
@@ -171,12 +185,17 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-##### Personal
+##### _Personal_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 
-###### Streak
+---
 
+___
+
+### _Streak_
+
+###### _Feature under construction_ #####
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 
 ---
@@ -192,17 +211,17 @@
 
   ## Our Services
 
-  #### Operational Optimization
+  #### _Operational Optimization_
   - **Menu Engineering**: Improve your menu design and offerings to maximize profitability.
   - **Staff Training**: Enhance team efficiency with customized training programs.
   - **Cost Control**: Implement effective cost management strategies to boost your bottom line.
 
-  #### Digital Transformation
+  #### _Digital Transformation_
   - **E-commerce Solutions**: Develop and optimize your online store for increased sales.
   - **Website Development**: Create a robust online presence with a professional website.
   - **SEO & Marketing**: Improve your online visibility and attract more customers with targeted marketing strategies.
 
-  #### Technology Integration
+  #### _Technology Integration_
   - **POS Systems**: Integrate modern POS systems to streamline operations.
   - **Data Analytics**: Utilize data analytics to make informed business decisions.
   - **API Integration**: Seamlessly connect different systems for a unified operation.
@@ -211,11 +230,11 @@
 
   With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with the tools to come in and quickly optimize your store. We offer:
 
-  - **Expertise**: Over a decade of experience with all kinds of concepts within the hospitality industry.
-  - **Customization**: Custom solutions tailored to meet your specific needs.
-  - **Results-Driven**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
+  - **_Expertise_**: Over a decade of experience with all kinds of concepts within the hospitality industry.
+  - **_Customization_**: Custom solutions tailored to meet your specific needs.
+  - **_Results-Driven_**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
 
-  ## Contact Us
+  ## _Contact Us_
 
   Ready to transform your business? Contact us today to schedule a consultation.
 
