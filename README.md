@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile
+# Welcome to my (personal) GitHub profile
 
 ## Table of Contents
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
@@ -27,13 +27,15 @@
 ---
 
 ### Top 3 Projects
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
     <a href="https://github.com/TMHSDigital/local-ai"><img src="https://img.shields.io/badge/-local%20ai-blue?style=flat&logo=github&logoColor=white" alt="local ai"></a>
     <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
 </div>
 
+---
+
+[![Visit TMHS on GitHub](https://img.shields.io/badge/Visit_TMHS_on_GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://tmhs-digital.github.io/TMHS-on-GitHub/)
 
 ---
 
