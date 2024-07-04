@@ -35,10 +35,6 @@
 
 ---
 
-[![Visit TMHS on GitHub](https://img.shields.io/badge/Visit_TMHS_on_GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://tmhs-digital.github.io/TMHS-on-GitHub/)
-
----
-
 > ### Technologies and Tools
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
