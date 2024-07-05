@@ -200,6 +200,8 @@
   <p>Coming Soon!</p>
 </details>
 
+---
+
 <details>
   <summary>Consulting Services</summary>
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
@@ -220,6 +222,9 @@
   - **POS Systems**: Integrate modern POS systems to streamline operations.
   - **Data Analytics**: Utilize data analytics to make informed business decisions.
   - **API Integration**: Seamlessly connect different systems for a unified operation.
+
+
+---
 
   ## Why Choose Us?
 
