@@ -188,7 +188,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
----
 
   ##### Content Creation
 -
@@ -201,10 +200,6 @@
   ##### _Personal_
 -
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
-</details>
-
----
-    
 </details>
 
 ---
