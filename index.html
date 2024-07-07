@@ -35,13 +35,20 @@
             font-size: 24px;
             color: #fff;
         }
-        .section p, .section ul {
-            font-weight: 400;
-            font-size: 18px;
-            color: #e0e0e0;
+        .services, .digital-services {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-bottom: 20px;
         }
-        .section ul li {
-            margin-bottom: 10px;
+        .service-item {
+            flex: 1 1 45%;
+            list-style: none;
+            padding: 10px;
+            margin: 10px 0;
+            background: #1c1c1c;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
         }
         .videos {
             display: flex;
@@ -69,7 +76,7 @@
             margin-bottom: 10px;
         }
         @media (max-width: 768px) {
-            .video-container {
+            .service-item, .video-container {
                 flex: 1 1 100%;
                 max-width: 100%;
             }
@@ -91,23 +98,23 @@
 
     <section class="container section">
         <h2>Our Services</h2>
-        <ul>
-            <li>Operational Audits</li>
-            <li>Staff Training Programs</li>
-            <li>Menu Optimization</li>
-            <li>Technology Integration</li>
-            <li>Marketing Strategies</li>
-        </ul>
+        <div class="services">
+            <div class="service-item">Operational Audits</div>
+            <div class="service-item">Staff Training Programs</div>
+            <div class="service-item">Menu Optimization</div>
+            <div class="service-item">Technology Integration</div>
+            <div class="service-item">Marketing Strategies</div>
+        </div>
     </section>
 
     <section class="container section">
         <h2>Digital Services</h2>
-        <ul>
-            <li>E-commerce Solutions</li>
-            <li>Website Development</li>
-            <li>SEO & Marketing</li>
-            <li>Technology Integration</li>
-        </ul>
+        <div class="digital-services">
+            <div class="service-item">E-commerce Solutions</div>
+            <div class="service-item">Website Development</div>
+            <div class="service-item">SEO & Marketing</div>
+            <div class="service-item">Technology Integration</div>
+        </div>
     </section>
 
     <section class="container section">
