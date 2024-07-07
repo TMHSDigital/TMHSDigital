@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boston Flyover Video</title>
+    <title>Boston and New Yorker Flyover Videos</title>
     <style>
         body {
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
             height: 100vh;
             margin: 0;
             background-color: #000;
@@ -17,6 +18,7 @@
         }
         .container {
             text-align: center;
+            margin-bottom: 40px;
         }
         h1 {
             margin-bottom: 20px;
@@ -26,10 +28,11 @@
             max-height: 80vh;
             border: 2px solid #fff;
             border-radius: 8px;
+            margin-bottom: 20px;
         }
         .loader {
-            border: 16px solid #f3f3f3; /* Light grey */
-            border-top: 16px solid #3498db; /* Blue */
+            border: 16px solid #f3f3f3;
+            border-top: 16px solid #3498db;
             border-radius: 50%;
             width: 120px;
             height: 120px;
@@ -47,29 +50,52 @@
     </style>
 </head>
 <body>
-    <div class="loader" id="loader"></div>
-    <div class="container" id="content">
+    <div class="loader" id="loader1"></div>
+    <div class="container" id="content1">
         <h1>Boston Flyover</h1>
-        <video controls id="video">
+        <video controls id="video1">
             <source src="assets/boston-flyover.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <div class="loader" id="loader2"></div>
+    <div class="container" id="content2">
+        <h1>New Yorker Flyover</h1>
+        <video controls id="video2">
+            <source src="assets/new-yorker.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            var video = document.getElementById('video');
-            var loader = document.getElementById('loader');
-            var content = document.getElementById('content');
+            var video1 = document.getElementById('video1');
+            var loader1 = document.getElementById('loader1');
+            var content1 = document.getElementById('content1');
+
+            var video2 = document.getElementById('video2');
+            var loader2 = document.getElementById('loader2');
+            var content2 = document.getElementById('content2');
             
-            video.addEventListener('loadstart', function() {
-                loader.style.display = 'block';
-                content.style.display = 'none';
+            video1.addEventListener('loadstart', function() {
+                loader1.style.display = 'block';
+                content1.style.display = 'none';
             });
             
-            video.addEventListener('canplay', function() {
-                loader.style.display = 'none';
-                content.style.display = 'block';
+            video1.addEventListener('canplay', function() {
+                loader1.style.display = 'none';
+                content1.style.display = 'block';
+            });
+
+            video2.addEventListener('loadstart', function() {
+                loader2.style.display = 'block';
+                content2.style.display = 'none';
+            });
+            
+            video2.addEventListener('canplay', function() {
+                loader2.style.display = 'none';
+                content2.style.display = 'block';
             });
         });
     </script>
