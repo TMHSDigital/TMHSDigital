@@ -1,4 +1,4 @@
-# Welcome to my (personal) GitHub profile
+# Welcome to my GitHub profile
 
 ## Table of Contents
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
