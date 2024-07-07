@@ -189,7 +189,9 @@
 
 <details>
   <summary>Streak</summary>
-  ###### _Feature under construction_ #####
+
+---
+    
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 </details>
 
@@ -204,6 +206,9 @@
 
 <details>
   <summary>Consulting Services</summary>
+
+---
+    
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
   ## Our Services
@@ -246,7 +251,12 @@
   [![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
 </details>
 
+---
+
 <details>
   <summary>FAQ</summary>
+
+---
+    
   <p>Coming Soon!</p>
 </details>
