@@ -207,7 +207,6 @@
 
 ---
     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=radical)
 </details>
 
 ---
