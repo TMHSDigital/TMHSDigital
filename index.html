@@ -3,101 +3,99 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boston and New Yorker Flyover Videos</title>
+    <title>TM Hospitality Strategies</title>
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 100vh;
             margin: 0;
-            background-color: #000;
-            color: #fff;
             font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        .header {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
         }
         .container {
-            text-align: center;
-            margin-bottom: 40px;
+            max-width: 1000px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
         }
-        h1 {
+        .section {
+            padding: 20px 0;
+        }
+        .section h2 {
+            margin-top: 0;
+        }
+        .videos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .video-container {
             margin-bottom: 20px;
+            flex: 1 1 45%;
+            max-width: 45%;
+            text-align: center;
         }
         video {
-            max-width: 100%;
-            max-height: 80vh;
-            border: 2px solid #fff;
+            width: 100%;
+            border: 2px solid #333;
             border-radius: 8px;
-            margin-bottom: 20px;
         }
-        .loader {
-            border: 16px solid #f3f3f3;
-            border-top: 16px solid #3498db;
-            border-radius: 50%;
-            width: 120px;
-            height: 120px;
-            animation: spin 2s linear infinite;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            display: none;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+        @media (max-width: 768px) {
+            .video-container {
+                flex: 1 1 100%;
+                max-width: 100%;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="loader" id="loader1"></div>
-    <div class="container" id="content1">
-        <h1>Boston Flyover</h1>
-        <video controls id="video1">
-            <source src="assets/boston-flyover.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+    <header class="header">
+        <div class="container">
+            <h1>TM Hospitality Strategies</h1>
+            <p>Enhancing Operational Performance for Hospitality Businesses</p>
+        </div>
+    </header>
 
-    <div class="loader" id="loader2"></div>
-    <div class="container" id="content2">
-        <h1>New Yorker Flyover</h1>
-        <video controls id="video2">
-            <source src="assets/new-yorker.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+    <section class="container section">
+        <h2>About Us</h2>
+        <p>Founded in June 2020, TM Hospitality Strategies specializes in identifying and addressing operational issues for restaurants and other hospitality businesses to enhance their performance. Our goal is to provide tailored solutions that drive growth and efficiency in your operations.</p>
+    </section>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            var video1 = document.getElementById('video1');
-            var loader1 = document.getElementById('loader1');
-            var content1 = document.getElementById('content1');
+    <section class="container section">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Operational Audits</li>
+            <li>Staff Training Programs</li>
+            <li>Menu Optimization</li>
+            <li>Technology Integration</li>
+            <li>Marketing Strategies</li>
+        </ul>
+    </section>
 
-            var video2 = document.getElementById('video2');
-            var loader2 = document.getElementById('loader2');
-            var content2 = document.getElementById('content2');
-            
-            video1.addEventListener('loadstart', function() {
-                loader1.style.display = 'block';
-                content1.style.display = 'none';
-            });
-            
-            video1.addEventListener('canplay', function() {
-                loader1.style.display = 'none';
-                content1.style.display = 'block';
-            });
-
-            video2.addEventListener('loadstart', function() {
-                loader2.style.display = 'block';
-                content2.style.display = 'none';
-            });
-            
-            video2.addEventListener('canplay', function() {
-                loader2.style.display = 'none';
-                content2.style.display = 'block';
-            });
-        });
-    </script>
+    <section class="container section">
+        <h2>Watch Our Videos</h2>
+        <div class="videos">
+            <div class="video-container">
+                <h3>Boston Flyover</h3>
+                <video controls>
+                    <source src="assets/boston-flyover.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <div class="video-container">
+                <h3>New Yorker Flyover</h3>
+                <video controls>
+                    <source src="assets/new-yorker.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
