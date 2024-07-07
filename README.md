@@ -1,6 +1,9 @@
 # Welcome to my GitHub profile
 
 ## Table of Contents
+
+---
+
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages" style="text-decoration: none;">
@@ -28,6 +31,9 @@
 
 <details>
   <summary>Top 3 Projects</summary>
+
+---
+    
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
       <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
       <a href="https://github.com/TMHSDigital/local-ai"><img src="https://img.shields.io/badge/-local%20ai-blue?style=flat&logo=github&logoColor=white" alt="local ai"></a>
@@ -39,6 +45,8 @@
 
 <details>
   <summary>Technologies and Tools</summary>
+
+  ---
 
   [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -147,6 +155,9 @@
 
 <details>
   <summary>Top Languages</summary>
+
+---
+    
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
 </details>
 
@@ -154,7 +165,13 @@
 
 <details>
   <summary>Skills</summary>
+
+---
+    
   ###### areas of expertise
+
+---
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -166,6 +183,8 @@
 
 <details>
   <summary>Connect with Me</summary>
+
+---
 
   ##### TM Hospitality Strategies
 
