@@ -12,9 +12,6 @@
     <a href="#connect-with-me" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Connect%20with%20Me-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Connect with Me">
     </a>
-    <a href="#streak" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Streak-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Streak">
-    </a>
     <a href="#skills" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Skills-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Skills">
     </a>
@@ -207,11 +204,6 @@
 -
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 </details>
-
----
-
-<details>
-  <summary>Streak</summary>
 
 ---
     
