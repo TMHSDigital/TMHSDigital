@@ -1,6 +1,8 @@
 # Welcome to my GitHub profile
 
-## Table of Contents
+---
+
+## ___Table of Contents___
 
 ---
 
@@ -145,6 +147,10 @@
   [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
   [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
   [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
