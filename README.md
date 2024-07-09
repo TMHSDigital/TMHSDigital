@@ -12,29 +12,25 @@
 
 ---
 
-## ___Table of Contents___
+<h2 align="center">Table of Contents</h2>
 
----
-
-<div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="#top-languages" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Top%20Languages-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Top Languages">
-    </a>
-    <a href="#connect-with-me" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Connect%20with%20Me-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Connect with Me">
-    </a>
-    <a href="#skills" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Skills-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Skills">
-    </a>
-    <a href="#top-3-projects" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Top%203%20Projects-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Top 3 Projects">
-    </a>
-    <a href="#consulting-services" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Consulting%20Services-2e2e2e?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_HERE&logoColor=white" alt="Consulting Services">
-    </a>
-</div>
-</div>
+<p align="center">
+  <a href="#top-languages">
+    <img src="https://img.shields.io/badge/TOP%20LANGUAGES-blue?style=for-the-badge" alt="Top Languages"/>
+  </a>
+  <a href="#connect-with-me">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-blue?style=for-the-badge" alt="Connect With Me"/>
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/SKILLS-blue?style=for-the-badge" alt="Skills"/>
+  </a>
+  <a href="#top-3-projects">
+    <img src="https://img.shields.io/badge/TOP%203%20PROJECTS-blue?style=for-the-badge" alt="Top 3 Projects"/>
+  </a>
+  <a href="#consulting-services">
+    <img src="https://img.shields.io/badge/CONSULTING%20SERVICES-blue?style=for-the-badge" alt="Consulting Services"/>
+  </a>
+</p>
 
 ---
 
