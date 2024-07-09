@@ -177,7 +177,7 @@
 
 ---
     
-  ###### areas of expertise
+  ###### Comfort Zone
 
 ---
   
