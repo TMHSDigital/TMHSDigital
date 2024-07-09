@@ -1,12 +1,12 @@
-# Welcome to my GitHub profile
-
----
+<h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital?style=for-the-badge">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/TMHSDigital/TMHSDigital?style=for-the-badge">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/TMHSDigital/TMHSDigital?style=for-the-badge">
   <img alt="GitHub license" src="https://img.shields.io/github/license/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TMHSDigital/TMHSDigital?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge">
 </p>
 
