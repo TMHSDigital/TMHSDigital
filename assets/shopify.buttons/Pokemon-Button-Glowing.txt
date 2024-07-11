@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokéball Button</title>
+  <style>
+    @keyframes glow {
+      0%, 100% {
+        box-shadow: 0 0 10px rgba(255, 0, 0, 0.7), 0 0 20px rgba(255, 0, 0, 0.5), 0 0 30px rgba(255, 0, 0, 0.3);
+      }
+      50% {
+        box-shadow: 0 0 20px rgba(255, 0, 0, 0.9), 0 0 30px rgba(255, 0, 0, 0.7), 0 0 40px rgba(255, 0, 0, 0.5);
+      }
+    }
+    .button-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .pokeball-button {
+      position: relative;
+      width: 200px; /* Adjusted size */
+      height: 200px; /* Adjusted size */
+      border-radius: 50%;
+      overflow: hidden;
+      display: block;
+      text-decoration: none;
+      animation: glow 1.5s infinite;
+    }
+    .pokeball-button img {
+      width: 200%;
+      height: 200%;
+      border-radius: 50%;
+      object-fit: cover; /* Ensures the image fits well */
+    }
+  </style>
+</head>
+<body>
+  <div class="button-container">
+    <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true" class="pokeball-button">
+      <img src="https://github.com/TMHSDigital/TMHSDigital/blob/bf145a9c81d60ee15933fd19eae1ff5afc7009ba/assets/pngs/pokeball_PNG7.png?raw=true" alt="Pokéball Button">
+    </a>
+  </div>
+</body>
+</html>
