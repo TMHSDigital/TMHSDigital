@@ -21,36 +21,32 @@
 <h2 align="center">Table of Contents</h2>
 
 <p align="center">
-  <a href="#top-languages">
-    <img src="https://img.shields.io/badge/TOP%20LANGUAGES-blue?style=for-the-badge" alt="Top Languages"/>
+  <a href="#top-3-projects">
+    <img src="https://img.shields.io/badge/TOP%203%20PROJECTS-blue?style=for-the-badge" alt="Top 3 Projects"/>
   </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-blue?style=for-the-badge" alt="Connect With Me"/>
+  <a href="#technologies-and-tools">
+    <img src="https://img.shields.io/badge/TECHNOLOGIES%20AND%20TOOLS-blue?style=for-the-badge" alt="Technologies and Tools"/>
   </a>
   <a href="#skills">
     <img src="https://img.shields.io/badge/SKILLS-blue?style=for-the-badge" alt="Skills"/>
   </a>
-  <a href="#top-3-projects">
-    <img src="https://img.shields.io/badge/TOP%203%20PROJECTS-blue?style=for-the-badge" alt="Top 3 Projects"/>
+  <a href="#connect-with-me">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-blue?style=for-the-badge" alt="Connect With Me"/>
   </a>
   <a href="#consulting-services">
     <img src="https://img.shields.io/badge/CONSULTING%20SERVICES-blue?style=for-the-badge" alt="Consulting Services"/>
+  </a>
+  <a href="#faq">
+    <img src="https://img.shields.io/badge/FAQ-blue?style=for-the-badge" alt="FAQ"/>
+  </a>
+  <a href="#more-information">
+    <img src="https://img.shields.io/badge/MORE%20INFORMATION-blue?style=for-the-badge" alt="More Information"/>
   </a>
 </p>
 
 ---
 
 <details>
-  <summary>Top 3 Projects</summary>
-
----
-    
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
-      <a href="https://github.com/TMHSDigital/local-ai"><img src="https://img.shields.io/badge/-local%20ai-blue?style=flat&logo=github&logoColor=white" alt="local ai"></a>
-      <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
-  </div>
-</details>
 
 ---
 
