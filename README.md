@@ -2,18 +2,6 @@
 
 ---
 
-<p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TMHSDigital/TMHSDigital?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge">
-</p>
-
----
-
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
@@ -50,7 +38,7 @@
 
 ---
 
-### ___Technologies and Tools___
+<h2 align="center">Technologies & Tools</h2>
 
   ---
 
@@ -161,12 +149,15 @@
 
 ---
 
-
-### ___Top Languages___
+<div align="center">
+  
+  ### ___Top Languages___
 
 ---
     
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
+
+</div>
 
 ---
 
@@ -288,3 +279,18 @@ Skills
     
   <p>Coming Soon!</p>
 </details>
+
+
+---
+
+<p align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TMHSDigital/TMHSDigital?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge">
+</p>
+
+---
