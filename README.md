@@ -177,24 +177,8 @@
 
   For more information, visit our [website](https://tmhs-shop.myshopify.com).
 
-  [![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
-</details>
-
----
-
 <details>
   <summary><h3 style="display: inline-block;">FAQ</h3></summary>
-
-  ---
-
-  <p>Coming Soon!</p>
-</details>
-  Ready to transform your business? Contact us today to schedule a consultation.
-
-  - Email: _please request_
-  - LinkedIn: [Thomas Mathes](https://www.linkedin.com/in/thomasmathes1/)
-
-  For more information, visit our [website](https://tmhs-shop.myshopify.com).
 
   [![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
 </details>
