@@ -22,12 +22,6 @@
 
 ---
 
----
-
----
-
----
-
 <h2 align="center">Table of Contents</h2>
 
 <p align="center">
@@ -53,12 +47,6 @@
     <img src="https://img.shields.io/badge/MORE%20INFORMATION-blue?style=for-the-badge" alt="More Information"/>
   </a>
 </p>
-
----
-
----
-
----
 
 ---
 
