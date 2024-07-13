@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
+---
+
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital?style=for-the-badge">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/TMHSDigital/TMHSDigital?style=for-the-badge">
@@ -10,11 +12,19 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge">
 </p>
 
+---
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
 
 </div>
+
+---
+
+---
+
+---
 
 ---
 
@@ -43,6 +53,14 @@
     <img src="https://img.shields.io/badge/MORE%20INFORMATION-blue?style=for-the-badge" alt="More Information"/>
   </a>
 </p>
+
+---
+
+---
+
+---
+
+---
 
 ### ___Technologies and Tools___
 
