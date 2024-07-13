@@ -11,9 +11,7 @@
 </p>
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
 </div>
 
 ---
@@ -47,69 +45,72 @@
 ---
 
 <details>
+  <summary><h3 style="display: inline-block;">Top 3 Projects</h3></summary>
+
+  ---
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <a href="https://github.com/TMHSDigital/Language-Library"><img src="https://img.shields.io/badge/-Language%20Library-blue?style=flat&logo=github&logoColor=white" alt="Language Library"></a>
+      <a href="https://github.com/TMHSDigital/local-ai"><img src="https://img.shields.io/badge/-local%20ai-blue?style=flat&logo=github&logoColor=white" alt="local ai"></a>
+      <a href="https://github.com/TMHSDigital/TMHSDigital"><img src="https://img.shields.io/badge/-TMHSDigital-blue?style=flat&logo=github&logoColor=white" alt="TMHSDigital"></a>
+  </div>
+</details>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+  <summary><h3 style="display: inline-block;">Technologies and Tools</h3></summary>
+
+  ---
+  <!-- Include the Technologies and Tools section from a separate file -->
+  [technologies-and-tools.md](./technologies-and-tools.md)
+</details>
+
+---
+
+<details>
+  <summary><h3 style="display: inline-block;">Skills</h3></summary>
+
+  ---
+
+  <h2 align="center">Comfort Zone</h2>
+
+  <p align="center">
+    <a href="https://www.ubuntu.com">
+      <img src="https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge&logo=ubuntu" alt="Ubuntu"/>
+    </a>
+    <a href="https://www.w3.org/html">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </a>
+    <a href="https://www.javascript.com/">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://www.shopify.com/">
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+    </a>
+  </p>
 
 </details>
 
 ---
 
 <details>
-  <summary>Top Languages</summary>
+  <summary><h3 style="display: inline-block;">Connect with Me</h3></summary>
 
----
-    
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
-</details>
-
----
-
-<details>
-  <summary>Skills</summary>
-
----
-  
-<h2 align="center">Comfort Zone</h2>
-
-<p align="center">
-  <a href="https://www.ubuntu.com">
-    <img src="https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge&logo=ubuntu" alt="Ubuntu"/>
-  </a>
-  <a href="https://www.w3.org/html">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.shopify.com/">
-    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-  </a>
-</p>
-
-
----
-
-<details>
-  <summary>Connect with Me</summary>
-
----
+  ---
 
   ##### TM Hospitality Strategies
--
+  -
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
-
   ##### Content Creation
--
+  -
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)
@@ -117,27 +118,27 @@
   [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
   ##### _Personal_
--
+  -
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 </details>
 
 ---
 
 <details>
-  <summary>More Information</summary>
+  <summary><h3 style="display: inline-block;">More Information</h3></summary>
 
----
-    
+  ---
+
   <p>Coming Soon!</p>
 </details>
 
 ---
 
 <details>
-  <summary>Consulting Services</summary>
+  <summary><h3 style="display: inline-block;">Consulting Services</h3></summary>
 
----
-    
+  ---
+
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
   ## Our Services
@@ -157,8 +158,7 @@
   - **Data Analytics**: Utilize data analytics to make informed business decisions.
   - **API Integration**: Seamlessly connect different systems for a unified operation.
 
-
----
+  ---
 
   ## Why Choose Us?
 
@@ -170,6 +170,25 @@
 
   ## _Contact Us_
 
+  Ready to transform your business? Contact us today to schedule a consultation.
+
+  - Email: _please request_
+  - LinkedIn: [Thomas Mathes](https://www.linkedin.com/in/thomasmathes1/)
+
+  For more information, visit our [website](https://tmhs-shop.myshopify.com).
+
+  [![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
+</details>
+
+---
+
+<details>
+  <summary><h3 style="display: inline-block;">FAQ</h3></summary>
+
+  ---
+
+  <p>Coming Soon!</p>
+</details>
   Ready to transform your business? Contact us today to schedule a consultation.
 
   - Email: _please request_
