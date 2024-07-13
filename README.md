@@ -10,7 +10,11 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge">
 </p>
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+
+</div>
 
 ---
 
