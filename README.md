@@ -44,14 +44,7 @@
   </a>
 </p>
 
----
-
-<details>
-
----
-
-<details>
-  <summary>Technologies and Tools</summary>
+### ___Technologies and Tools___
 
   ---
 
@@ -160,22 +153,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
-
 ---
 
-<details>
-  <summary>Top Languages</summary>
+
+### ___Top Languages___
 
 ---
     
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
-</details>
 
 ---
 
-<details>
-  <summary>Skills</summary>
+Skills
 
 ---
   
@@ -202,11 +191,7 @@
   </a>
 </p>
 
-
----
-
-<details>
-  <summary>Connect with Me</summary>
+### ___Connect with Me___
 
 ---
 
