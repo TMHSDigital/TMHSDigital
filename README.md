@@ -4,9 +4,10 @@
 
 <div align="center">
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix)
+<details>
+  <summary>Expand to see stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
 
 
 
@@ -14,37 +15,16 @@
 
 ---
 
+<div align="center">
+
+<details>
+  <summary>Expand to see Tech & Tools</summary>
 
 
-<h2 align="center">Table of Contents</h2>
-
-<p align="center">
-  <a href="#top-3-projects">
-    <img src="https://img.shields.io/badge/TOP%203%20PROJECTS-blue?style=for-the-badge" alt="Top 3 Projects"/>
-  </a>
-  <a href="#technologies-and-tools">
-    <img src="https://img.shields.io/badge/TECHNOLOGIES%20AND%20TOOLS-blue?style=for-the-badge" alt="Technologies and Tools"/>
-  </a>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/SKILLS-blue?style=for-the-badge" alt="Skills"/>
-  </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-blue?style=for-the-badge" alt="Connect With Me"/>
-  </a>
-  <a href="#consulting-services">
-    <img src="https://img.shields.io/badge/CONSULTING%20SERVICES-blue?style=for-the-badge" alt="Consulting Services"/>
-  </a>
-  <a href="#faq">
-    <img src="https://img.shields.io/badge/FAQ-blue?style=for-the-badge" alt="FAQ"/>
-  </a>
-  <a href="#more-information">
-    <img src="https://img.shields.io/badge/MORE%20INFORMATION-blue?style=for-the-badge" alt="More Information"/>
-  </a>
-</p>
-
----
-
+  
 <h2 align="center">Technologies & Tools</h2>
+
+
 
   ---
 
@@ -149,72 +129,37 @@
   [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
   [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
 ---
 
-<div align="center">
-  
-  ### ___Top Languages___
+<details>
+  <summary>Contact</summary>
 
 ---
-    
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
-
-</div>
-
----
-
-Skills
-
----
-  
-<h2 align="center">Comfort Zone</h2>
-
-<p align="center">
-  <a href="https://www.ubuntu.com">
-    <img src="https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge&logo=ubuntu" alt="Ubuntu"/>
-  </a>
-  <a href="https://www.w3.org/html">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.shopify.com/">
-    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-  </a>
-</p>
 
 ### ___Connect with Me___
 
 ---
 
-  ##### TM Hospitality Strategies
--
+  ### TM Hospitality Strategies
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
+---
 
-  ##### Content Creation
--
+  ### Personal
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
+
+---
+
+  ### Content Creation
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)
   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
   [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-  ##### _Personal_
--
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 </details>
 
 ---
@@ -236,22 +181,22 @@ Skills
     
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
-  ## Our Services
+  ## __Our Services__
 
   #### _Operational Optimization_
-  - **Menu Engineering**: Improve your menu design and offerings to maximize profitability.
-  - **Staff Training**: Enhance team efficiency with customized training programs.
-  - **Cost Control**: Implement effective cost management strategies to boost your bottom line.
+    Menu Engineering: Improve your menu design and offerings to maximize profitability.
+    Staff Training: Enhance team efficiency with customized training programs.
+    Cost Control: Implement effective cost management strategies to boost your bottom line.
 
   #### _Digital Transformation_
-  - **E-commerce Solutions**: Develop and optimize your online store for increased sales.
-  - **Website Development**: Create a robust online presence with a professional website.
-  - **SEO & Marketing**: Improve your online visibility and attract more customers with targeted marketing strategies.
+    E-commerce Solutions: Develop and optimize your online store for increased sales.
+    Website Development: Create a robust online presence with a professional website.
+    SEO & Marketing: Improve your online visibility and attract more customers with targeted marketing strategies.
 
   #### _Technology Integration_
-  - **POS Systems**: Integrate modern POS systems to streamline operations.
-  - **Data Analytics**: Utilize data analytics to make informed business decisions.
-  - **API Integration**: Seamlessly connect different systems for a unified operation.
+    POS Systems: Integrate modern POS systems to streamline operations.
+    Data Analytics: Utilize data analytics to make informed business decisions.
+    API Integration: Seamlessly connect different systems for a unified operation.
 
 
 ---
