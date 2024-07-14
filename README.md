@@ -4,11 +4,17 @@
 
 <div align="center">
 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+
+
 
 </div>
 
 ---
+
+
 
 <h2 align="center">Table of Contents</h2>
 
