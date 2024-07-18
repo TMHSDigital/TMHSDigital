@@ -199,11 +199,16 @@
 
   ## Why Choose Us?
 
-  With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with the tools to come in and quickly optimize your store. We offer:
+>  With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with
+> the tools to come in and quickly optimize your store.
+>
+> __We offer:__
 
-  - **_Expertise_**: Over a decade of experience with all kinds of concepts within the hospitality industry.
-  - **_Customization_**: Custom solutions tailored to meet your specific needs.
-  - **_Results-Driven_**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
+>  **_Expertise_**: Over a decade of experience with all kinds of concepts within the hospitality industry.
+> 
+>  **_Customization_**: Custom solutions tailored to meet your specific needs.
+> 
+>  **_Results-Driven_**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
 
   ## _Contact Us_
 
