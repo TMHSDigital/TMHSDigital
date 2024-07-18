@@ -174,50 +174,29 @@
   <summary>Consulting Services</summary>
 
 ---
-    
-  <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
   ## __Our Services Include__
 
-  #### _Operational Optimization_
-    Menu Engineering: Improve your menu design and offerings to maximize profitability.
-    Staff Training: Enhance team efficiency with customized training programs.
-    Cost Control: Implement effective cost management strategies to boost your bottom line.
-
-  #### _Digital Transformation_
-    E-commerce Solutions: Develop and optimize your online store for increased sales.
-    Website Development: Create a robust online presence with a professional website.
-    SEO & Marketing: Improve your online visibility and attract more customers with targeted marketing strategies.
-
-  #### _Technology Integration_
-    POS Systems: Integrate modern POS systems to streamline operations.
-    Data Analytics: Utilize data analytics to make informed business decisions.
-    API Integration: Seamlessly connect different systems for a unified operation.
+  ###### Contact for info
 
 
 ---
 
   ## Why Choose Us?
 
->  With years of experience managing technology for restaurants and bars in all types of environments, we are equipped with
-> the tools to come in and quickly optimize your store.
->
-> __We offer:__
-
->  **_Expertise_**: Over a decade of experience with all kinds of concepts within the hospitality industry.
-> 
->  **_Customization_**: Custom solutions tailored to meet your specific needs.
-> 
->  **_Results-Driven_**: Focused on delivering measurable results. However, some things can't be measured in our line of work.
+###### Reach out and see!
 
   ## _Contact Us_
 
-  Ready to transform your business? Contact us today to schedule a consultation.
+###### LinkedIn: 
 
-  - Email: _please request_
-  - LinkedIn: [Thomas Mathes](https://www.linkedin.com/in/thomasmathes1/)
+###### TMHS
 
-  For more information, visit our [website](https://tmhs-shop.myshopify.com).
+___https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true___
+
+---
+
+###### Personal
 
   [![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
 </details>
