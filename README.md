@@ -177,7 +177,7 @@
     
   <p>At TM Hospitality Strategies, we offer a range of consulting services to help businesses in the hospitality industry thrive. Our expertise spans from operational optimization to digital transformation, ensuring that your business not only survives but excels in a competitive market.</p>
 
-  ## __Our Services__
+  ## __Our Services Include__
 
   #### _Operational Optimization_
     Menu Engineering: Improve your menu design and offerings to maximize profitability.
