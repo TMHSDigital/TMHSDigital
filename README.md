@@ -2,6 +2,10 @@
 
 ---
 
+<h2 align="center"><img src="https://img.shields.io/badge/Visit-Tech%20News%20Site-brightgreen?style=for-the-badge&logo=rss&logoColor=white" alt="Visit Tech News Site"
+
+---
+
 <p align="center">
   <a href="https://github.com/TMHSDigital/TMHS_Awesome/blob/053facf7fbc2ffe38cf79f5968443743943d2a79/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-Click%20Here-2D9CDB?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects">
