@@ -15,6 +15,15 @@
 ---
 
 <div align="center">
+  <h2>Latest News and Updates</h2>
+  <p>Stay updated with the latest news in AI and technology.</p>
+  <!-- Replace the below link with your actual RSS feed URL or an image representing your feed -->
+  <a href="https://rss.app/feeds/_PDUGOwm3FPt3FB6y"><img src="https://via.placeholder.com/400x200.png?text=Latest+News+and+Updates" alt="RSS Feed"></a>
+</div>
+
+---
+
+<div align="center">
 
 <details>
   <summary>Expand to see stats</summary>
