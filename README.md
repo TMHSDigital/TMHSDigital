@@ -2,6 +2,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/TMHSDigital/TMHSDigital#readme" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-Click%20Here-2D9CDB?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects">
+  </a>
+</p>
+
+<p align="center">
+  Discover a wide range of projects including Web Development, Data Science, DevOps, UI/UX Design, and more! Click the badge above to dive into detailed descriptions and links to each project.
+</p>
+
+---
+
 <div align="center">
 
 <details>
