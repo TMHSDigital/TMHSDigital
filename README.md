@@ -2,6 +2,8 @@
 
 ---
 
+---
+
 <h2 align="center"><img src="https://img.shields.io/badge/Visit-Tech%20News%20Site-brightgreen?style=for-the-badge&logo=rss&logoColor=white" alt="Visit Tech News Site"
 
 ---
@@ -22,15 +24,7 @@
 
 ---
 
-<div align="center">
-  <h2>Latest News and Updates</h2>
-  <p>Stay updated with the latest news in AI and technology.</p>
-  <!-- Replace the below link with your actual RSS feed URL -->
-  <a href="https://rss.app/feeds/_PDUGOwm3FPt3FB6y" target="_blank">
-    <img src="https://via.placeholder.com/400x200.png?text=Latest+News+and+Updates" alt="RSS Feed">
-  </a>
-</div>
-
+---
 
 ---
 
