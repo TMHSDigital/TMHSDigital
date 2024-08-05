@@ -18,8 +18,6 @@
 
 ---
 
----
-
 <div align="center">
 
 <details>
