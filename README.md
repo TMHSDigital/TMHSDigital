@@ -16,8 +16,6 @@
 
 ---
 
----
-
 <div align="center">
 
 <details>
