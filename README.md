@@ -8,6 +8,12 @@
 
 ---
 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix) 
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+
 ---
 
 <p align="center">
@@ -19,16 +25,6 @@
 <p align="center">
   Discover a wide range of projects including Web Development, Data Science, DevOps, UI/UX Design, and more! Click the badge above to dive into detailed descriptions and links to each project.
 </p>
-
----
-
-<div align="center">
-  <details>
-    <summary>Expand to see stats</summary>
-
-    ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
-  </details>
-</div>
 
 ---
 
