@@ -10,8 +10,6 @@
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix) 
 
----
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
 
 ---
