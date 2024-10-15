@@ -8,9 +8,27 @@
 
 ---
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix) 
+<details>
+  <summary><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+  <br>
+
+  ### 🏆 GitHub Profile Trophies
+  ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TMHSDigital&theme=matrix&no-bg=true&no-frame=true)
+
+  <br>
+
+  ### 🔥 Top Languages
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical)
+
+  <br>
+
+  ### 📈 GitHub Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent)
+
+  <br>
+</details>
+
 
 ---
 
