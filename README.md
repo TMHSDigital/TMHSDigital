@@ -1,3 +1,5 @@
+<div align="center">
+
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; background: rgba(0,0,0,0.1); z-index: 0;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ5aXl6dXUzY3gxbDNldG00dWtsNTJ0NWEzdWN5bXM3bnNvMjlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L6Mgrfcc6Y9PS2Nm6B/giphy.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.15; pointer-events: none;" alt="Background GIF">
 </div>
@@ -26,19 +28,6 @@
 
   </div>
 </details>
-
-
-
----
-
----
-
-<div align="center">
-
-<details>
-  <summary>Expand to see Tech & Tools</summary>
-
-
   
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>🛠️ Technologies & Tools</h2> (Click to expand)</summary>
@@ -104,35 +93,32 @@
   </div>
 </details>
 
----
-
 <details>
-  <summary>Contact</summary>
+  <summary style="font-size: 1.5rem; cursor: pointer;"><h2>🤝 Connect with Me</h2> (Click to expand)</summary>
 
----
+  <div align="center" style="margin-top: 10px;">
+  
+  <br>
 
-### ___Connect with Me___
-
----
-
-  ### TM Hospitality Strategies
+  ### 🏢 TM Hospitality Strategies
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
----
+  <br><br>
 
-  ### Personal
+  ### 👤 Personal
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 
----
+  <br><br>
 
-  ### Content Creation
+  ### 🎮 Content Creation
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)
   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
   [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-</details>
+  <br><br>
 
----
+  </div>
+</details>
