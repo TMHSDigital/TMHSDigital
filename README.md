@@ -160,18 +160,3 @@
 </details>
 
 ---
-
-<details>
-  <summary>More Information</summary>
-
----
-    
-  <p>Coming Soon!</p>
-</details>
-
----
-
-<details>
-  <summary>Consulting Services</summary>
-
----
