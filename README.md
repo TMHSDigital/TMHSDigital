@@ -1,8 +1,26 @@
 <div align="center">
 
+<!-- Animated Banner -->
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; background: rgba(0,0,0,0.1); z-index: 0;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ5aXl6dXUzY3gxbDNldG00dWtsNTJ0NWEzdWN5bXM3bnNvMjlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L6Mgrfcc6Y9PS2Nm6B/giphy.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.15; pointer-events: none;" alt="Background GIF">
 </div>
+
+<!-- Quick Introduction -->
+<h1>👋 Hi, I'm Thomas</h1>
+<p>Founder of TM Hospitality Strategies | Aspiring Builder | Tech Enthusiast</p>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen)
+
+<!-- Quick Links -->
+<p>
+  <a href="https://linkedin.com/in/thomasmathes1">
+    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
@@ -24,6 +42,9 @@
   ### 📈 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent" alt="GitHub Stats" />
 
+  <!-- Add Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&theme=react-dark" alt="Contribution Graph" />
+
   <br><br>
 
   </div>
@@ -41,7 +62,7 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+  [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 
   <br><br>
 
@@ -50,7 +71,6 @@
   [![Pygame](https://img.shields.io/badge/Pygame-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
   [![Tkinter](https://img.shields.io/badge/Tkinter-ffcd3c?style=for-the-badge&logo=tkinter&logoColor=white)](https://wiki.python.org/moin/TkInter)
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-  [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -69,8 +89,12 @@
   ### 🛠️ APIs & Platforms
   [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://beta.openai.com/)
   [![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
+  [![Anthropic API](https://img.shields.io/badge/Anthropic%20API-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/api)
   [![Numverify](https://img.shields.io/badge/Numverify-1A82E2?style=for-the-badge&logo=numverify&logoColor=white)](https://numverify.com/)
+  [![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
   [![SearchAPI.io](https://img.shields.io/badge/SearchAPI.io-FF6F61?style=for-the-badge&logo=api&logoColor=white)](https://searchapi.io/)
+  [![Perplexity API](https://img.shields.io/badge/Perplexity%20API-00A0DC?style=for-the-badge&logo=perplexity&logoColor=white)](https://docs.perplexity.ai/)
+  [![Shopify API](https://img.shields.io/badge/Shopify%20API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://shopify.dev/api)
 
   <br><br>
 
@@ -82,11 +106,16 @@
 
   <br><br>
 
+  ### 💼 CRMs
+  [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+
+  <br><br>
+
   ### 🖥️ Productivity & Collaboration
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-  [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
   [![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
   [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 
   <br><br>
 
@@ -106,7 +135,6 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/TM-Hospitality-Strategies/100071356407115/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tmhs.ig/)
   [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TMHS_Consulting)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
 
   <br><br>
 
@@ -126,3 +154,8 @@
 
   </div>
 </details>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
