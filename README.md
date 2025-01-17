@@ -12,15 +12,7 @@
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen)
 
-<!-- Quick Links -->
-<p>
-  <a href="https://linkedin.com/in/thomasmathes1">
-    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+
 
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
