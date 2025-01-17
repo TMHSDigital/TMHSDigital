@@ -1,18 +1,21 @@
 <div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%"/>
+
 <!-- Animated Banner -->
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; background: rgba(0,0,0,0.1); z-index: 0;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ5aXl6dXUzY3gxbDNldG00dWtsNTJ0NWEzdWN5bXM3bnNvMjlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L6Mgrfcc6Y9PS2Nm6B/giphy.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.15; pointer-events: none;" alt="Background GIF">
 </div>
 
-<!-- Quick Introduction -->
-<h1>👋 Hi, I'm Thomas</h1>
-<p>Founder of TM Hospitality Strategies | Aspiring Builder | Tech Enthusiast</p>
+<!-- Animated Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A5&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Thomas;Founder+of+TM+Hospitality+Strategies;Aspiring+Builder;Tech+Enthusiast" alt="Typing SVG" />
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen)
+<!-- Profile Views Counter with Animation -->
+<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
-
+<!-- Animated Snake Game -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
@@ -146,6 +149,9 @@
 
   </div>
 </details>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Footer -->
 <div align="center">
