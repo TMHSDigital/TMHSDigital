@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%"/>
 
@@ -14,8 +17,14 @@
 <!-- Profile Views Counter with Animation -->
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Animated Snake Game -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
