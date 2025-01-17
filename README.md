@@ -44,7 +44,10 @@
 
   </div>
 </details>
-  
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <details>
   <summary style="font-size: 1.5rem; cursor: pointer;"><h2>🛠️ Technologies & Tools</h2> (Click to expand)</summary>
 
