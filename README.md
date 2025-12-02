@@ -27,17 +27,14 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Metrics Dashboard -->
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/main/github-metrics.svg" alt="Metrics" width="100%">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <details>
-  <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 GitHub Stats and Trophies</h2> (Click to expand)</summary>
+  <summary style="font-size: 1.5rem; cursor: pointer;"><h2>📊 Metrics & Analytics</h2> (Click to expand)</summary>
 
   <div align="center" style="margin-top: 10px;">
     
+  <!-- Metrics Dashboard (Isometric) -->
+  <img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/main/github-metrics.svg" alt="Metrics" width="100%">
+  
   <br>
 
   ### 🏆 GitHub Profile Trophies
@@ -45,18 +42,28 @@
 
   <br><br>
 
-  ### 🔥 Top Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical" alt="Top Languages" />
-
-  <br><br>
-
-  ### 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <!-- Stats & Languages Grid -->
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">📈 GitHub Stats</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent" alt="GitHub Stats" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🔥 Top Languages</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical" alt="Top Languages" />
+        </div>
+      </td>
+    </tr>
+  </table>
 
   <!-- Add Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&theme=react-dark" alt="Contribution Graph" />
 
-  <br><br>
+  <br>
 
   </div>
 </details>
