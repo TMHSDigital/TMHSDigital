@@ -71,81 +71,53 @@
     
   <br>
 
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🔧 Development Tools</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-      <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🐍 Programming & Frameworks</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Pygame-306998?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
-      <img src="https://img.shields.io/badge/Tkinter-ffcd3c?style=for-the-badge&logo=tkinter&logoColor=white" alt="Tkinter">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🌐 Frontend & Backend</h3>
-    <p>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🛠️ APIs & Platforms</h3>
-    <p>
-      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-      <img src="https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google API">
-      <img src="https://img.shields.io/badge/Anthropic%20API-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API">
-      <img src="https://img.shields.io/badge/Numverify-1A82E2?style=for-the-badge&logo=numverify&logoColor=white" alt="Numverify">
-      <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API">
-      <img src="https://img.shields.io/badge/SearchAPI.io-FF6F61?style=for-the-badge&logo=api&logoColor=white" alt="SearchAPI.io">
-      <img src="https://img.shields.io/badge/Perplexity%20API-00A0DC?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity API">
-      <img src="https://img.shields.io/badge/Shopify%20API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify API">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🛒 Commerce & Delivery</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Vivid%20Commerce-FFA500?style=for-the-badge&logo=vivid&logoColor=white" alt="Vivid Commerce">
-      <img src="https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=doordash&logoColor=white" alt="DoorDash">
-      <img src="https://img.shields.io/badge/UberEats-5FB709?style=for-the-badge&logo=ubereats&logoColor=white" alt="UberEats">
-      <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>💼 CRMs</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-    </p>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <h3>🖥️ Productivity & Collaboration</h3>
-    <p>
-      <img src="https://img.shields.io/badge/GSuite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSuite">
-      <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-    </p>
-  </div>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">💻 Languages</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br>
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"><br>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"><br>
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">🚀 Frameworks & Tech</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"><br>
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><br>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"><br>
+          <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">🛠️ Tools & Workflow</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br>
+          <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"><br>
+          <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"><br>
+          <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3">
+        <h3 align="center">🔌 APIs & Integrations</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+          <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+          <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
+          <img src="https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=doordash&logoColor=white" alt="DoorDash">
+          <img src="https://img.shields.io/badge/UberEats-5FB709?style=for-the-badge&logo=ubereats&logoColor=white" alt="UberEats">
+        </div>
+      </td>
+    </tr>
+  </table>
 
   </div>
 </details>
