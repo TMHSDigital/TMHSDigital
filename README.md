@@ -114,28 +114,34 @@
 
   <div align="center" style="margin-top: 10px;">
 
-  <h3>🏢 TM Hospitality Strategies</h3>
-  <p>
-    <a href="https://github.com/TMHSDigital"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.facebook.com/people/TM-Hospitality-Strategies/100071356407115/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/TMHS_Consulting"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  </p>
+  <br>
 
-  <h3>👤 Personal</h3>
-  <p>
-    <a href="https://linkedin.com/in/thomasmathes1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </p>
-
-  <h3>🎮 Content Creation</h3>
-  <p>
-    <a href="https://instagram.com/fOuttaMyPaint"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://tiktok.com/@fOuttaMyPaint"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-    <a href="https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-    <a href="https://twitch.tv/fOuttaMyPaint"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-    <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  </p>
+  <table>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>🏢 TM Hospitality Strategies</h3>
+        <a href="https://github.com/TMHSDigital"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://www.facebook.com/people/TM-Hospitality-Strategies/100071356407115/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+        <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://x.com/TMHS_Consulting"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>👤 Personal</h3>
+        <a href="https://linkedin.com/in/thomasmathes1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎮 Content Creation</h3>
+        <a href="https://instagram.com/fOuttaMyPaint"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://tiktok.com/@fOuttaMyPaint"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a><br>
+        <a href="https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+        <a href="https://twitch.tv/fOuttaMyPaint"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+        <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+      </td>
+    </tr>
+  </table>
 
   </div>
 </details>
