@@ -22,19 +22,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           
-          # 1. Languages (Focused on Recent Work)
-          plugin_languages: yes
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_days: 30       # Analyze last 30 days of coding
-          plugin_languages_colors: "github"
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          
-          # 2. 3D Calendar
+          # 1. 3D Calendar (The Centerpiece)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 3. Code History
+          # 2. Code History
           plugin_lines: yes
           
           # Commit file generation
