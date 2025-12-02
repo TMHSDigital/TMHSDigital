@@ -34,23 +34,11 @@
   
   <br><br>
 
-  <!-- Stats & Languages Grid -->
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">📈 GitHub Stats</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=transparent" alt="GitHub Stats" />
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">🔥 Top Languages</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical" alt="Top Languages" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Top Languages (Centered) -->
+  <h3 align="center">🔥 Top Languages</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
 
   <br>
 
