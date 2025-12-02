@@ -138,7 +138,6 @@
         <a href="https://tiktok.com/@fOuttaMyPaint"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a><br>
         <a href="https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
         <a href="https://twitch.tv/fOuttaMyPaint"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-        <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
       </td>
     </tr>
   </table>
