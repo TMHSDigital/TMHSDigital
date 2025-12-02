@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Animated Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A5&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Thomas;Founder+of+TM+Hospitality+Strategies;Aspiring+Builder;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A5&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Thomas;Founder+of+TM+Hospitality+Strategies;Building+the+Future+of+Commerce;Python+%7C+React+%7C+Cloud+Architect" alt="Typing SVG" />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
