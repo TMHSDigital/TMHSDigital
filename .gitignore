@@ -1,0 +1,17 @@
+# Internal notes
+research.md
+
+# Font assets (use Google Fonts CDN instead)
+GOOGLE_FONTS/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.cursor/
+
+# Logs
+*.log
