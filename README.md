@@ -52,10 +52,6 @@
 - **Hospitality & SMB Tech Consulting**<br>
   AI integration advisory, POS systems, and operational tooling through TM Hospitality Strategies, AKA TMHS or TMHSDigital (DBA)
 
----
-
-<br>
-
 ## Tech Arsenal
 
 <div align="center">
@@ -157,4 +153,3 @@
 
 </div>
 </details>
-
