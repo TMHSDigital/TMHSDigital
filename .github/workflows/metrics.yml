@@ -1,11 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Run manually only — SVG not currently used in README
   workflow_dispatch:
-  # (optional) Run on master/main push
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
