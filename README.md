@@ -65,12 +65,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true) &nbsp;
-[![LinkedIn (Personal)](https://img.shields.io/badge/LinkedIn_(Personal)-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasmathes1/) &nbsp;
-[![Instagram](https://img.shields.io/badge/@tmhs.ig-1e1e2e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tmhs.ig/) &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-1e1e2e?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug) &nbsp;
-[![TikTok](https://img.shields.io/badge/@tmhs.digital-1e1e2e?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tmhs.digital) &nbsp;
-[![X](https://img.shields.io/badge/@TMHS__Consulting-1e1e2e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TMHS_Consulting) &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1e1e2e?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/TM-Hospitality-Strategies/100071356407115/)
+[![Instagram](https://img.shields.io/badge/@tmhs.ig-1e1e2e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tmhs.ig/)
 
 </div>
 </details>
