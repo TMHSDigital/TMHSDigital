@@ -47,11 +47,11 @@
 <summary><b>[ View Dashboard ]</b></summary>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&bg_color=1e1e2e&title_color=2EF7A5&text_color=ffffff&icon_color=2EF7A5&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/TMHSDigital?template=classic&base=activity,repositories&config_background=1e1e2e&config_title_color=2EF7A5&config_icon_color=2EF7A5&config_text_color=ffffff" alt="GitHub Metrics" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=2EF7A5&fire=2EF7A5&currStreakLabel=2EF7A5&sideLabels=ffffff&currStreakNum=ffffff&dates=888888&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=2EF7A5&fire=2EF7A5&currStreakLabel=2EF7A5&sideLabels=ffffff&currStreakNum=ffffff&dates=888888&hide_border=true&v=1" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&bg_color=1e1e2e&title_color=2EF7A5&text_color=ffffff&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/TMHSDigital?base=0&plugin_languages=yes&plugin_languages_colors=github&plugin_languages_limit=8&config_background=1e1e2e&config_title_color=2EF7A5&config_text_color=ffffff" alt="Top Languages" />
   <br><br>
   <img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
