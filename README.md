@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A5&center=true&vCenter=true&width=600&lines=Founder%2C+TM+Hospitality+Strategies;Published+a+game+on+Steam;Automation+%7C+Security+%7C+Homelab" alt="Typing SVG" />
-
 <p><em>Building tools, automating workflows, and shipping software across hospitality, nonprofits, security, and gaming.</em></p>
 
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />
