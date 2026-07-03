@@ -21,8 +21,8 @@
 - **Homelab**<br>
   Raspberry Pi 5 running 15+ self-hosted services, managed entirely from Windows with Ansible and Docker.
 
-- **Automation**<br>
-  Connecting CRMs, data platforms, and operational tools across Monday.com, Microsoft Graph, Supabase, and more.
+- **Dev Tools**<br>
+  Homelab, Docker, Steam, Screencast, Blender, and much more.
 
 ## Tech
 
