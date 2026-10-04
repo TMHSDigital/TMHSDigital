@@ -19,7 +19,7 @@
 ## What I Build
 
 - **Games**<br>
-  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Next up: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), in development.
+  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming soon in 2026: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam.
 
 - **Security Tools**<br>
   [Am I Hacked?](https://github.com/TMHSDigital/Am-I-Hacked) - open-source, zero-dependency Windows security scanner. Maps findings to MITRE ATT&CK and produces an interactive HTML report.
