@@ -11,13 +11,8 @@
 <br>
 
 <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&logo=linkedin&logoColor=white" alt="TMHS on LinkedIn" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/thomasmathes1/"><img src="https://img.shields.io/badge/LinkedIn-Thomas-1e1e2e?style=flat-square&logo=linkedin&logoColor=white" alt="Thomas on LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/Instagram-tmhs.ig-1e1e2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100071356407115"><img src="https://img.shields.io/badge/Facebook-TMHS-1e1e2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug"><img src="https://img.shields.io/badge/YouTube-TMHS-1e1e2e?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
-<a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/TikTok-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>&nbsp;
-<a href="https://x.com/TMHS_Consulting"><img src="https://img.shields.io/badge/X-TMHS__Consulting-1e1e2e?style=flat-square&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-<a href="https://www.twitch.tv/fOuttaMyPaint"><img src="https://img.shields.io/badge/Twitch-fOuttaMyPaint-1e1e2e?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/TikTok-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
 </div>
 
