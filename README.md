@@ -2,9 +2,7 @@
 
 <img src="assets/logo.gif" alt="TM Hospitality Strategies logo" width="160" />
 
-<p>I'm Thomas, founder of <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/"><b>TM Hospitality Strategies</b></a>.<br>
-I help restaurant and hospitality operators sharpen concepts, tighten operations and protect margins,<br>
-and I build games, security tools and AI developer tooling.</p>
+<p>I'm T, founder of <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/"><b>TM Hospitality Strategies</b></a>.<br></p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
