@@ -6,7 +6,7 @@
 
 <p><em>Tools, workflows, and software across hospitality, nonprofits, security, gaming, and more.</em></p>
 
-<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />
+<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />&nbsp;&nbsp;<a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 
 </div>
 
@@ -68,6 +68,6 @@
 </div>
 </details>
 
----
+<div align="center"><sub>If my work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
 
 ---
