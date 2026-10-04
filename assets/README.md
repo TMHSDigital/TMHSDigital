@@ -10,8 +10,8 @@ Here is an enhanced list of badges you can use in your GitHub README file, displ
 - ![GitHub last commit (alternative)](https://img.shields.io/github/last-commit/TMHSDigital/TMHSDigital?style=for-the-badge)
 - ![GitHub issues](https://img.shields.io/github/issues/TMHSDigital/TMHSDigital)
 - ![GitHub issues (alternative)](https://img.shields.io/github/issues/TMHSDigital/TMHSDigital?style=for-the-badge)
-- ![Repo size](https://img.shields.io/github/repo-size/TMHSDigital/local-ai)
-- ![Repo size (alternative)](https://img.shields.io/github/repo-size/TMHSDigital/local-ai?style=for-the-badge)
+- ![Repo size](https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital)
+- ![Repo size (alternative)](https://img.shields.io/github/repo-size/TMHSDigital/TMHSDigital?style=for-the-badge)
 
 ### Programming Languages
 

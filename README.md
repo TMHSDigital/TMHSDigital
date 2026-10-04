@@ -2,14 +2,17 @@
 
 <img src="assets/logo.gif" alt="TM Hospitality Strategies logo" width="160" />
 
-<p><em>Tools, workflows, and software across hospitality, nonprofits, security, gaming, and more.</em></p>
+<p>I'm Thomas, founder of <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/"><b>TM Hospitality Strategies</b></a>.<br>
+I help restaurant and hospitality operators sharpen concepts, tighten operations and protect margins,<br>
+and I build games, security tools and AI developer tooling.</p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
 <img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />&nbsp;
 <a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 <br>
-<a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&logo=linkedin&logoColor=white" alt="TMHS on LinkedIn" /></a>&nbsp;
+<a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/"><img src="https://img.shields.io/badge/Website-TM%20Hospitality%20Strategies-1e1e2e?style=flat-square&logo=googlechrome&logoColor=white" alt="TM Hospitality Strategies website" /></a>&nbsp;
+<a href="https://www.linkedin.com/company/tm-hospitality-strategies/"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&logo=linkedin&logoColor=white" alt="TMHS on LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/Instagram-tmhs.ig-1e1e2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/TikTok-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
@@ -17,6 +20,9 @@
 </div>
 
 ## What I Build
+
+- **Hospitality Strategy**<br>
+  Through [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) I work with restaurants, hotels, cafés, bars and caterers on concept and positioning, menu engineering, labor and scheduling, cost control and new openings.
 
 - **Games**<br>
   [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming soon in 2026: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam.
@@ -57,19 +63,28 @@
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=2EF7A5&text_color=ffffff&icon_color=2EF7A5&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="400" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="400" />
+</picture>
 </td>
 <td align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e2e&title_color=2EF7A5&text_color=ffffff" alt="Top Languages" width="400" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="400" />
+</picture>
 </td>
 </tr>
 </table>
 <img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=2EF7A5&fire=2EF7A5&currStreakLabel=2EF7A5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true&v=2" alt="GitHub Streak" />
 <br><br>
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</picture>
 </div>
 </details>
 
-<div align="center"><sub>If my work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
+<div align="center"><sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>. If my open-source work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
 
 ---
