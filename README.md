@@ -18,8 +18,8 @@
 
 ## What I Build
 
-- **Published Game**<br>
-  [*System.Execute*](https://store.steampowered.com/app/4353080) on Steam. Electron app with full Steamworks SDK integration.
+- **Games**<br>
+  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Next up: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), in development.
 
 - **Security Tools**<br>
   [Am I Hacked?](https://github.com/TMHSDigital/Am-I-Hacked) - open-source, zero-dependency Windows security scanner. Maps findings to MITRE ATT&CK and produces an interactive HTML report.
@@ -28,7 +28,10 @@
   Raspberry Pi 5 running 15+ self-hosted services, managed entirely from Windows with Ansible and Docker. Tooling: [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools).
 
 - **Dev Tools**<br>
-  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
+  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
+
+- **Resources**<br>
+  [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) - a catalog of free, commercially usable game assets with each licence recorded from its source. [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) - an advertising playbook for small businesses.
 
 ## Tech
 
