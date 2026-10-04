@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/logo.gif" alt="TM Hospitality Strategies logo" width="200" style="border-radius: 15px;">
-
-<br>
+<img src="assets/logo.gif" alt="TM Hospitality Strategies logo" width="160" />
 
 <p><em>Tools, workflows, and software across hospitality, nonprofits, security, gaming, and more.</em></p>
 
-<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />&nbsp;&nbsp;<a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=brightgreen&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
+<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=brightgreen" alt="Total Stars" />&nbsp;
+<a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 <br>
-
 <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&logo=linkedin&logoColor=white" alt="TMHS on LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/Instagram-tmhs.ig-1e1e2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/TikTok-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
 </div>
 
@@ -37,14 +37,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PowerShell-1e1e2e?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Go-1e1e2e?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/PowerShell-1e1e2e?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 
 </div>
 
