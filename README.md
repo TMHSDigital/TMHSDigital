@@ -32,8 +32,11 @@
 </div>
 <br>
 
-<table align="center"><tr><td>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture></p>
+<table align="center"><tr><td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture>
+<details>
+<summary><b>[ View Projects ]</b></summary>
+<div align="left">
 
 - **Dev Tools:** 17 plugins and MCP servers in the [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin), [steam-mcp](https://github.com/TMHSDigital/steam-mcp), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp)
 - **Games:** [*System.Execute*](https://store.steampowered.com/app/4353080) on Steam · [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/) coming 2027 · [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game) in the browser
@@ -42,6 +45,8 @@
 - **Resources:** [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) licence-checked game assets · [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) ad playbook for small businesses
 - **Hospitality:** [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) menu engineering, labor, cost control and openings for restaurants and hotels
 
+</div>
+</details>
 </td></tr></table>
 <table align="center"><tr><td align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture>
