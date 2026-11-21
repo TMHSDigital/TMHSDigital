@@ -31,28 +31,15 @@
 
 </div>
 
-## What I Build
+<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture></p>
 
-- **Dev Tools**<br>
-  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
-
-- **Games**<br>
-  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming 2027: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam. Free in the browser: [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), a neon arcade built with Phaser 3, plus [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game).
-
-- **Security & Utilities**<br>
-  [subenum](https://github.com/TMHSDigital/subenum) - fast, concurrent subdomain enumeration with wildcard filtering and a TUI, shipped as a single Go binary. [Kali-Linux-for-beginners](https://github.com/TMHSDigital/Kali-Linux-for-beginners) - a free, hands-on ethical-hacking course with a Dockerized practice lab. [autoclicker](https://github.com/TMHSDigital/autoclicker) - a free Windows auto clicker with image matching and safety stops, shipped as a single .exe.
-
-- **Homelab**<br>
-  Raspberry Pi 5 running 15+ self-hosted services, managed entirely from Windows with Ansible and Docker. Tooling: [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools).
-
-- **Resources**<br>
-  [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) - a catalog of free, commercially usable game assets with each licence recorded from its source. [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) - an advertising playbook for small businesses.
-
-- **Hospitality Strategy**<br>
-  Through [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) I work with restaurants, hotels, cafés, bars and caterers on concept and positioning, menu engineering, labor and scheduling, cost control and new openings.
-
-## Tech
-
+- **Dev Tools:** 17 plugins and MCP servers in the [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin), [steam-mcp](https://github.com/TMHSDigital/steam-mcp), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp)
+- **Games:** [*System.Execute*](https://store.steampowered.com/app/4353080) on Steam · [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/) coming 2027 · [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game) in the browser
+- **Security & Utilities:** [subenum](https://github.com/TMHSDigital/subenum) Go subdomain enumerator · [Kali-Linux-for-beginners](https://github.com/TMHSDigital/Kali-Linux-for-beginners) ethical-hacking course · [autoclicker](https://github.com/TMHSDigital/autoclicker) Windows auto clicker
+- **Homelab:** Raspberry Pi 5 with 15+ self-hosted services, run with Ansible and Docker · [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools)
+- **Resources:** [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) licence-checked game assets · [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) ad playbook for small businesses
+- **Hospitality:** [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) menu engineering, labor, cost control and openings for restaurants and hotels
+<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture></p>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -89,8 +76,8 @@
 
 </div>
 
-## Metrics & Activity
-
+<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-metrics-dark.svg" /><img src="assets/label-metrics-light.svg" alt="Metrics" /></picture></p>
+<div align="center">
 <details>
 <summary><b>[ View Dashboard ]</b></summary>
 <br>
@@ -119,6 +106,7 @@
 </picture>
 </div>
 </details>
+</div>
 
 <div align="center"><sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>. If my open-source work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
 
