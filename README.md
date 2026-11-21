@@ -23,16 +23,16 @@
   Through [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) I work with restaurants, hotels, cafés, bars and caterers on concept and positioning, menu engineering, labor and scheduling, cost control and new openings.
 
 - **Games**<br>
-  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming soon in 2026: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam.
+  [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming soon in 2026: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam. Free in the browser: [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), a neon arcade built with Phaser 3, plus [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game).
 
-- **Security Tools**<br>
-  [Am I Hacked?](https://github.com/TMHSDigital/Am-I-Hacked) - open-source, zero-dependency Windows security scanner. Maps findings to MITRE ATT&CK and produces an interactive HTML report.
+- **Security & Utilities**<br>
+  [subenum](https://github.com/TMHSDigital/subenum) - fast, concurrent subdomain enumeration with wildcard filtering and a TUI, shipped as a single Go binary. [Kali-Linux-for-beginners](https://github.com/TMHSDigital/Kali-Linux-for-beginners) - a free, hands-on ethical-hacking course with a Dockerized practice lab. [autoclicker](https://github.com/TMHSDigital/autoclicker) - a free Windows auto clicker with image matching and safety stops, shipped as a single .exe.
 
 - **Homelab**<br>
   Raspberry Pi 5 running 15+ self-hosted services, managed entirely from Windows with Ansible and Docker. Tooling: [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools).
 
 - **Dev Tools**<br>
-  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
+  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
 
 - **Resources**<br>
   [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) - a catalog of free, commercially usable game assets with each licence recorded from its source. [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) - an advertising playbook for small businesses.
