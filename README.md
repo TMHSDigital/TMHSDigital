@@ -45,6 +45,8 @@
 </td></tr></table>
 <table align="center"><tr><td align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture>
+<details>
+<summary><b>[ View Stack ]</b></summary>
 <br>
 <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -86,6 +88,7 @@
 <img src="https://img.shields.io/badge/Tailscale-1e1e2e?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
 <img src="https://img.shields.io/badge/FFmpeg-1e1e2e?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</details>
 </td></tr></table>
 
 <table align="center"><tr><td align="center">
