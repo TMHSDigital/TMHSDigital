@@ -2,8 +2,8 @@
 research.md
 CLAUDE.md
 
-# Font assets (use Google Fonts CDN instead)
-GOOGLE_FONTS/
+# Local tool output
+.playwright-mcp/
 
 # OS
 .DS_Store
