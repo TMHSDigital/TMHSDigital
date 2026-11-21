@@ -132,6 +132,8 @@
 </details>
 </td></tr></table>
 
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
+
 <div align="center"><sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>. If my open-source work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
 
 ---
