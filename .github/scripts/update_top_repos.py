@@ -15,6 +15,10 @@ USER = "TMHSDigital"
 COUNT = 3
 README = os.path.join(os.path.dirname(__file__), "..", "..", "README.md")
 START, END = "<!-- TOP-REPOS:START -->", "<!-- TOP-REPOS:END -->"
+LABEL = (
+    '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-top-projects-dark.svg" />'
+    '<img src="assets/label-top-projects-light.svg" alt="Top projects" /></picture>'
+)
 
 
 def fetch_repos():
@@ -63,6 +67,7 @@ def main():
 
     block = (
         f"{START}\n<table align=\"center\"><tr><td align=\"center\">\n"
+        f"{LABEL}\n<br>\n"
         + "&nbsp;\n".join(badge(r["name"]) for r in top)
         + f"\n</td></tr></table>\n{END}"
     )

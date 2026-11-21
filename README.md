@@ -8,8 +8,8 @@
 <img src="assets/wordmark-light.svg" alt="TMHS Digital" width="400" />
 </picture>
 </a>
-
-<p>
+<br><br>
+<table align="center"><tr><td align="center">
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=00A0F0&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
 <img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=00A0F0" alt="Total Stars" />&nbsp;
 <a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
@@ -18,9 +18,11 @@
 <a href="https://www.linkedin.com/company/tm-hospitality-strategies/"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&labelColor=1e1e2e" alt="TMHS on LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/-tmhs.ig-1e1e2e?style=flat-square&logo=instagram&logoColor=white&labelColor=1e1e2e" alt="Instagram" /></a>&nbsp;
 <a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white&labelColor=1e1e2e" alt="TikTok" /></a>
-</p>
+</td></tr></table>
 <!-- TOP-REPOS:START -->
 <table align="center"><tr><td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-top-projects-dark.svg" /><img src="assets/label-top-projects-light.svg" alt="Top projects" /></picture>
+<br>
 <a href="https://github.com/TMHSDigital/Free-Game-Dev-Assets"><img src="https://img.shields.io/github/stars/TMHSDigital/Free-Game-Dev-Assets?style=flat-square&amp;label=Free-Game-Dev-Assets%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="Free-Game-Dev-Assets stars" /></a>&nbsp;
 <a href="https://github.com/TMHSDigital/Blender-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/Blender-Developer-Tools?style=flat-square&amp;label=Blender-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="Blender-Developer-Tools stars" /></a>&nbsp;
 <a href="https://github.com/TMHSDigital/CFX-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/CFX-Developer-Tools?style=flat-square&amp;label=CFX-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="CFX-Developer-Tools stars" /></a>
@@ -55,17 +57,35 @@
 
 <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Go-1e1e2e?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PowerShell-1e1e2e?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/Lua-1e1e2e?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/PowerShell-1e1e2e?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-1e1e2e?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<br>
+<img src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/React%20Native-1e1e2e?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-1e1e2e?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Electron-1e1e2e?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Vite-1e1e2e?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Phaser-1e1e2e?style=flat-square" alt="Phaser" />
+<br>
 <img src="https://img.shields.io/badge/Unity-1e1e2e?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Godot-1e1e2e?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 <img src="https://img.shields.io/badge/Blender-1e1e2e?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Steamworks-1e1e2e?style=flat-square&logo=steam&logoColor=white" alt="Steamworks" />
+<img src="https://img.shields.io/badge/WebGL-1e1e2e?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+<br>
+<img src="https://img.shields.io/badge/MCP-1e1e2e?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Claude-1e1e2e?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Cursor-1e1e2e?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Ansible-1e1e2e?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-1e1e2e?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </div>
 
