@@ -95,18 +95,23 @@
 <br>
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-light.svg" alt="GitHub activity and top languages" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-light.svg" alt="GitHub contribution streak" width="740" />
 </picture>
 <br><br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-light.svg" alt="GitHub contribution streak" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-light.svg" alt="GitHub activity and top languages" width="740" />
+</picture>
+<br><br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/activity-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/activity-light.svg" alt="Weekly contributions over the last 12 months" width="740" />
 </picture>
 <br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="740" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="740" />
 </picture>
 </div>
 </details>
