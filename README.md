@@ -94,22 +94,15 @@
 <summary><b>[ View Dashboard ]</b></summary>
 <br>
 <div align="center">
-<table>
-<tr>
-<td align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="360" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="360" align="top" />
 </picture>
-</td>
-<td align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="360" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="360" align="top" />
 </picture>
-</td>
-</tr>
-</table>
+<br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-dark.svg" />
 <img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-light.svg" alt="GitHub contribution streak" />
