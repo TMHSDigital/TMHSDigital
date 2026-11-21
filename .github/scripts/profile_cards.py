@@ -216,7 +216,7 @@ def streak_card(c, total, first, current, longest, today):
 def overview_card(c, s):
     H = 200
     rows = [
-        ("Public repos", short(s["repos"])),
+        ("Original repos", short(s["repos"])),
         ("Stars earned", short(s["stars"])),
         ("Commits", short(s["commits"])),
         ("Pull requests", short(s["prs"])),
@@ -257,7 +257,7 @@ def overview_card(c, s):
 <g clip-path="url(#bar)">{''.join(segs)}</g>
 {chr(10).join(lang_rows)}"""
     summary = ", ".join(f"{n} {p:.1f}%" for n, p, _ in s["langs"])
-    label = (f"{s['repos']} public repos, {s['stars']} stars, {s['commits']} commits, {s['prs']} pull requests, "
+    label = (f"{s['repos']} original repos, {s['stars']} stars, {s['commits']} commits, {s['prs']} pull requests, "
              f"{s['issues']} issues. Top languages: {summary}")
     return frame(c, H, label, body, css)
 
