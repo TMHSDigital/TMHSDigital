@@ -30,7 +30,8 @@
 <!-- TOP-REPOS:END -->
 
 </div>
-<br>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
 
 <table align="center"><tr><td align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture>
@@ -49,6 +50,9 @@
 </div>
 </details>
 </td></tr></table>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
+
 <table align="center"><tr><td align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture>
 <details>
@@ -96,6 +100,8 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </details>
 </td></tr></table>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
 
 <table align="center"><tr><td align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-metrics-dark.svg" /><img src="assets/label-metrics-light.svg" alt="Metrics" /></picture>
