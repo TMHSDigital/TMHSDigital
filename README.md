@@ -124,11 +124,9 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
 
-<div align="center"><sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>. If my open-source work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" alt="" /></picture></p>
-
 <table align="center"><tr><td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-connect-dark.svg" /><img src="assets/label-connect-light.svg" alt="Connect" /></picture>
+<br>
 <img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=00A0F0&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
 <img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=00A0F0" alt="Total Stars" />&nbsp;
 <a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
@@ -137,6 +135,6 @@
 <a href="https://www.linkedin.com/company/tm-hospitality-strategies/"><img src="https://img.shields.io/badge/LinkedIn-TMHS-1e1e2e?style=flat-square&labelColor=1e1e2e" alt="TMHS on LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tmhs.ig/"><img src="https://img.shields.io/badge/-tmhs.ig-1e1e2e?style=flat-square&logo=instagram&logoColor=white&labelColor=1e1e2e" alt="Instagram" /></a>&nbsp;
 <a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white&labelColor=1e1e2e" alt="TikTok" /></a>
+<br>
+<sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>&nbsp;&nbsp;·&nbsp;&nbsp;Open-source work supported through <a href="https://github.com/sponsors/TMHSDigital">GitHub Sponsors</a></sub>
 </td></tr></table>
-
----
