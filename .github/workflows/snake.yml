@@ -25,37 +25,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: stats
-          options: username=TMHSDigital&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=1e1e2e&title_color=00A0F0&text_color=ffffff&icon_color=00A0F0
-          path: dist/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: stats
-          options: username=TMHSDigital&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=0077B6&text_color=24292f&icon_color=0077B6
-          path: dist/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card (dark)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: top-langs
-          options: username=TMHSDigital&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e2e&title_color=00A0F0&text_color=ffffff
-          path: dist/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
-        with:
-          card: top-langs
-          options: username=TMHSDigital&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0077B6&text_color=24292f
-          path: dist/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Activity + languages card (dark + light)
+        run: python3 .github/scripts/overview_card.py dist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:

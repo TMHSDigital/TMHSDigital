@@ -95,12 +95,8 @@
 <br>
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="360" align="top" />
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="360" align="top" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/overview-light.svg" alt="GitHub activity and top languages" />
 </picture>
 <br><br>
 <picture>
