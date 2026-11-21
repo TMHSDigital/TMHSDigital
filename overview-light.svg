@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="200" viewBox="0 0 740 200" role="img" aria-label="136 original repos, 145 stars, 6629 commits, 1259 pull requests, 2451 issues. Top languages: TypeScript 61.4%, Python 17.5%, JavaScript 6.5%, Go 3.1%, Shell 2.9%, HTML 2.4%, Go Template 2.2%, CSS 1.5%">
+<title>136 original repos, 145 stars, 6629 commits, 1259 pull requests, 2451 issues. Top languages: TypeScript 61.4%, Python 17.5%, JavaScript 6.5%, Go 3.1%, Shell 2.9%, HTML 2.4%, Go Template 2.2%, CSS 1.5%</title>
+<style>
+.h{font:700 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#0077B6;letter-spacing:.06em;text-transform:uppercase}
+.n{font:700 30px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+.l{font:400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+.v{font:700 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+.a{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#0077B6}
+.d{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#59636e}
+.f{animation:fu .7s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fu{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.seg{transform-box:fill-box;transform-origin:left;animation:grow .9s cubic-bezier(.3,.7,.2,1) both}@keyframes grow{from{transform:scaleX(0)}to{transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="739" height="199" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+<line x1="332" y1="34" x2="332" y2="166" stroke="#d1d9e0"/>
+<text class="h" x="32" y="40">Activity</text>
+<g class="f" style="animation-delay:0.05s"><text class="l" x="32" y="70">Original repos</text><text class="v" x="300" y="70" text-anchor="end">136</text></g>
+<g class="f" style="animation-delay:0.11s"><text class="l" x="32" y="91">Stars earned</text><text class="v" x="300" y="91" text-anchor="end">145</text></g>
+<g class="f" style="animation-delay:0.17s"><text class="l" x="32" y="112">Commits</text><text class="v" x="300" y="112" text-anchor="end">6.6k</text></g>
+<g class="f" style="animation-delay:0.23s"><text class="l" x="32" y="133">Pull requests</text><text class="v" x="300" y="133" text-anchor="end">1.3k</text></g>
+<g class="f" style="animation-delay:0.29s"><text class="l" x="32" y="154">Issues</text><text class="v" x="300" y="154" text-anchor="end">2.5k</text></g>
+<g class="f" style="animation-delay:0.35s"><text class="l" x="32" y="175">Contributed to (last year)</text><text class="v" x="300" y="175" text-anchor="end">8</text></g>
+<text class="h" x="362" y="40">Top Languages</text>
+<clipPath id="bar"><rect x="362" y="52" width="346" height="10" rx="5"/></clipPath>
+<rect x="362" y="52" width="346" height="10" rx="5" fill="#eaeef2"/>
+<g clip-path="url(#bar)"><rect class="seg" x="362.00" y="52" width="217.96" height="10" fill="#3178c6" style="animation-delay:0.20s"/><rect class="seg" x="579.96" y="52" width="62.00" height="10" fill="#3572A5" style="animation-delay:0.27s"/><rect class="seg" x="641.96" y="52" width="23.22" height="10" fill="#f1e05a" style="animation-delay:0.34s"/><rect class="seg" x="665.18" y="52" width="11.04" height="10" fill="#00ADD8" style="animation-delay:0.41s"/><rect class="seg" x="676.22" y="52" width="10.21" height="10" fill="#89e051" style="animation-delay:0.48s"/><rect class="seg" x="686.43" y="52" width="8.48" height="10" fill="#e34c26" style="animation-delay:0.55s"/><rect class="seg" x="694.91" y="52" width="7.74" height="10" fill="#00ADD8" style="animation-delay:0.62s"/><rect class="seg" x="702.65" y="52" width="5.35" height="10" fill="#663399" style="animation-delay:0.69s"/></g>
+<g class="f" style="animation-delay:0.30s"><circle cx="367" cy="88" r="5" fill="#3178c6"/><text class="l" x="379" y="92">TypeScript</text><text class="d" x="523.0" y="92" text-anchor="end">61.4%</text></g>
+<g class="f" style="animation-delay:0.35s"><circle cx="367" cy="112" r="5" fill="#3572A5"/><text class="l" x="379" y="116">Python</text><text class="d" x="523.0" y="116" text-anchor="end">17.5%</text></g>
+<g class="f" style="animation-delay:0.40s"><circle cx="367" cy="136" r="5" fill="#f1e05a"/><text class="l" x="379" y="140">JavaScript</text><text class="d" x="523.0" y="140" text-anchor="end">6.5%</text></g>
+<g class="f" style="animation-delay:0.45s"><circle cx="367" cy="160" r="5" fill="#00ADD8"/><text class="l" x="379" y="164">Go</text><text class="d" x="523.0" y="164" text-anchor="end">3.1%</text></g>
+<g class="f" style="animation-delay:0.50s"><circle cx="552.0" cy="88" r="5" fill="#89e051"/><text class="l" x="564.0" y="92">Shell</text><text class="d" x="708.0" y="92" text-anchor="end">2.9%</text></g>
+<g class="f" style="animation-delay:0.55s"><circle cx="552.0" cy="112" r="5" fill="#e34c26"/><text class="l" x="564.0" y="116">HTML</text><text class="d" x="708.0" y="116" text-anchor="end">2.4%</text></g>
+<g class="f" style="animation-delay:0.60s"><circle cx="552.0" cy="136" r="5" fill="#00ADD8"/><text class="l" x="564.0" y="140">Go Template</text><text class="d" x="708.0" y="140" text-anchor="end">2.2%</text></g>
+<g class="f" style="animation-delay:0.65s"><circle cx="552.0" cy="160" r="5" fill="#663399"/><text class="l" x="564.0" y="164">CSS</text><text class="d" x="708.0" y="164" text-anchor="end">1.5%</text></g>
+</svg>
