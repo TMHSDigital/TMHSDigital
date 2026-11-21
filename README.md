@@ -110,7 +110,10 @@
 </td>
 </tr>
 </table>
-<img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=00A0F0&fire=00A0F0&currStreakLabel=00A0F0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true&v=2" alt="GitHub Streak" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-dark.svg" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/streak-light.svg" alt="GitHub contribution streak" />
+</picture>
 <br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" />
