@@ -19,8 +19,8 @@
 
 ## What I Build
 
-- **Hospitality Strategy**<br>
-  Through [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) I work with restaurants, hotels, cafés, bars and caterers on concept and positioning, menu engineering, labor and scheduling, cost control and new openings.
+- **Dev Tools**<br>
+  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
 
 - **Games**<br>
   [*System.Execute*](https://store.steampowered.com/app/4353080) is live on Steam, an Electron app with full Steamworks SDK integration. Coming soon in 2026: [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/), wishlist it on Steam. Free in the browser: [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), a neon arcade built with Phaser 3, plus [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game).
@@ -31,11 +31,11 @@
 - **Homelab**<br>
   Raspberry Pi 5 running 15+ self-hosted services, managed entirely from Windows with Ansible and Docker. Tooling: [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools).
 
-- **Dev Tools**<br>
-  Plugins and MCP servers for AI-assisted development, cataloged in [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin) (with [steam-mcp](https://github.com/TMHSDigital/steam-mcp)), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools), [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp).
-
 - **Resources**<br>
   [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) - a catalog of free, commercially usable game assets with each licence recorded from its source. [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) - an advertising playbook for small businesses.
+
+- **Hospitality Strategy**<br>
+  Through [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) I work with restaurants, hotels, cafés, bars and caterers on concept and positioning, menu engineering, labor and scheduling, cost control and new openings.
 
 ## Tech
 
