@@ -39,7 +39,7 @@ def badge(name):
             "style": "flat-square",
             "label": f"{name} ★",
             "labelColor": "1e1e2e",
-            "color": "2EF7A5",
+            "color": "00A0F0",
         },
         quote_via=urllib.parse.quote,
     )
@@ -61,7 +61,11 @@ def main():
     for r in top:
         print(f'{r["stargazers_count"]:>5}  {r["name"]}')
 
-    block = f"{START}\n<p>\n" + "&nbsp;\n".join(badge(r["name"]) for r in top) + f"\n</p>\n{END}"
+    block = (
+        f"{START}\n<table align=\"center\"><tr><td align=\"center\">\n"
+        + "&nbsp;\n".join(badge(r["name"]) for r in top)
+        + f"\n</td></tr></table>\n{END}"
+    )
     with open(README, encoding="utf-8") as f:
         text = f.read()
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.S)

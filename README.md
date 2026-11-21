@@ -10,8 +10,8 @@
 </a>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=2EF7A5&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
-<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=2EF7A5" alt="Total Stars" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=TMHSDigital&color=00A0F0&style=flat-square&label=profile+views" alt="Profile Views" />&nbsp;
+<img src="https://img.shields.io/github/stars/TMHSDigital?style=flat-square&label=total%20stars&color=00A0F0" alt="Total Stars" />&nbsp;
 <a href="https://github.com/sponsors/TMHSDigital"><img src="https://img.shields.io/badge/Sponsor-TMHSDigital-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 <br>
 <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/"><img src="https://img.shields.io/badge/-TM%20Hospitality%20Strategies-1e1e2e?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1e1e2e" alt="TM Hospitality Strategies website" /></a>&nbsp;
@@ -20,11 +20,11 @@
 <a href="https://www.tiktok.com/@tmhs.digital"><img src="https://img.shields.io/badge/-tmhs.digital-1e1e2e?style=flat-square&logo=tiktok&logoColor=white&labelColor=1e1e2e" alt="TikTok" /></a>
 </p>
 <!-- TOP-REPOS:START -->
-<p>
-<a href="https://github.com/TMHSDigital/Free-Game-Dev-Assets"><img src="https://img.shields.io/github/stars/TMHSDigital/Free-Game-Dev-Assets?style=flat-square&amp;label=Free-Game-Dev-Assets%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=2EF7A5" alt="Free-Game-Dev-Assets stars" /></a>&nbsp;
-<a href="https://github.com/TMHSDigital/Blender-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/Blender-Developer-Tools?style=flat-square&amp;label=Blender-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=2EF7A5" alt="Blender-Developer-Tools stars" /></a>&nbsp;
-<a href="https://github.com/TMHSDigital/CFX-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/CFX-Developer-Tools?style=flat-square&amp;label=CFX-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=2EF7A5" alt="CFX-Developer-Tools stars" /></a>
-</p>
+<table align="center"><tr><td align="center">
+<a href="https://github.com/TMHSDigital/Free-Game-Dev-Assets"><img src="https://img.shields.io/github/stars/TMHSDigital/Free-Game-Dev-Assets?style=flat-square&amp;label=Free-Game-Dev-Assets%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="Free-Game-Dev-Assets stars" /></a>&nbsp;
+<a href="https://github.com/TMHSDigital/Blender-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/Blender-Developer-Tools?style=flat-square&amp;label=Blender-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="Blender-Developer-Tools stars" /></a>&nbsp;
+<a href="https://github.com/TMHSDigital/CFX-Developer-Tools"><img src="https://img.shields.io/github/stars/TMHSDigital/CFX-Developer-Tools?style=flat-square&amp;label=CFX-Developer-Tools%20%E2%98%85&amp;labelColor=1e1e2e&amp;color=00A0F0" alt="CFX-Developer-Tools stars" /></a>
+</td></tr></table>
 <!-- TOP-REPOS:END -->
 
 </div>
@@ -91,7 +91,7 @@
 </td>
 </tr>
 </table>
-<img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=2EF7A5&fire=2EF7A5&currStreakLabel=2EF7A5&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true&v=2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=TMHSDigital&background=1e1e2e&ring=00A0F0&fire=00A0F0&currStreakLabel=00A0F0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true&v=2" alt="GitHub Streak" />
 <br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" />
