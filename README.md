@@ -33,12 +33,16 @@
 
 <p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture></p>
 
+<table align="center"><tr><td>
+
 - **Dev Tools:** 17 plugins and MCP servers in the [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin), [steam-mcp](https://github.com/TMHSDigital/steam-mcp), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp)
 - **Games:** [*System.Execute*](https://store.steampowered.com/app/4353080) on Steam · [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/) coming 2027 · [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game) in the browser
 - **Security & Utilities:** [subenum](https://github.com/TMHSDigital/subenum) Go subdomain enumerator · [Kali-Linux-for-beginners](https://github.com/TMHSDigital/Kali-Linux-for-beginners) ethical-hacking course · [autoclicker](https://github.com/TMHSDigital/autoclicker) Windows auto clicker
 - **Homelab:** Raspberry Pi 5 with 15+ self-hosted services, run with Ansible and Docker · [Home-Lab-Developer-Tools](https://github.com/TMHSDigital/Home-Lab-Developer-Tools)
 - **Resources:** [Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) licence-checked game assets · [Awesome-Ads](https://github.com/TMHSDigital/Awesome-Ads) ad playbook for small businesses
 - **Hospitality:** [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) menu engineering, labor, cost control and openings for restaurants and hotels
+
+</td></tr></table>
 <p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture></p>
 <div align="center">
 
@@ -46,6 +50,7 @@
 <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Go-1e1e2e?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-1e1e2e?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/Lua-1e1e2e?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/PowerShell-1e1e2e?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,7 +61,9 @@
 <img src="https://img.shields.io/badge/Expo-1e1e2e?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pydantic-1e1e2e?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
 <img src="https://img.shields.io/badge/Electron-1e1e2e?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Tauri-1e1e2e?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
 <img src="https://img.shields.io/badge/Vite-1e1e2e?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Phaser-1e1e2e?style=flat-square" alt="Phaser" />
 <br>
@@ -64,14 +71,20 @@
 <img src="https://img.shields.io/badge/Godot-1e1e2e?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 <img src="https://img.shields.io/badge/Blender-1e1e2e?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Steamworks-1e1e2e?style=flat-square&logo=steam&logoColor=white" alt="Steamworks" />
+<img src="https://img.shields.io/badge/FiveM-1e1e2e?style=flat-square&logo=fivem&logoColor=white" alt="FiveM" />
 <img src="https://img.shields.io/badge/WebGL-1e1e2e?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
 <br>
 <img src="https://img.shields.io/badge/MCP-1e1e2e?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/Claude-1e1e2e?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Cursor-1e1e2e?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Ollama-1e1e2e?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LM%20Studio-1e1e2e?style=flat-square&logo=lmstudio&logoColor=white" alt="LM Studio" />
+<br>
 <img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Ansible-1e1e2e?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-1e1e2e?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Tailscale-1e1e2e?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/FFmpeg-1e1e2e?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </div>
