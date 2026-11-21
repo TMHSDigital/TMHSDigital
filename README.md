@@ -30,10 +30,10 @@
 <!-- TOP-REPOS:END -->
 
 </div>
-
-<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture></p>
+<br>
 
 <table align="center"><tr><td>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-building-dark.svg" /><img src="assets/label-building-light.svg" alt="Building" /></picture></p>
 
 - **Dev Tools:** 17 plugins and MCP servers in the [Developer-Tools-Directory](https://github.com/TMHSDigital/Developer-Tools-Directory), including [Blender](https://github.com/TMHSDigital/Blender-Developer-Tools), [Unity](https://github.com/TMHSDigital/Unity-Developer-Tools), [Docker](https://github.com/TMHSDigital/Docker-Developer-Tools), [Steam](https://github.com/TMHSDigital/Steam-Cursor-Plugin), [steam-mcp](https://github.com/TMHSDigital/steam-mcp), [FiveM/RedM](https://github.com/TMHSDigital/CFX-Developer-Tools), [Mobile](https://github.com/TMHSDigital/Mobile-App-Developer-Tools) and [screencast-mcp](https://github.com/TMHSDigital/screencast-mcp)
 - **Games:** [*System.Execute*](https://store.steampowered.com/app/4353080) on Steam · [*Slap Boxing Simulator*](https://store.steampowered.com/app/5081390/Slap_Boxing_Simulator/) coming 2027 · [GH-Arcade](https://github.com/TMHSDigital/GH-Arcade), [Static_Chess](https://github.com/TMHSDigital/Static_Chess) and [Typing-Game](https://github.com/TMHSDigital/Typing-Game) in the browser
@@ -43,9 +43,9 @@
 - **Hospitality:** [TM Hospitality Strategies](https://tmhsdigital.github.io/Github-Pages-Demo-1/) menu engineering, labor, cost control and openings for restaurants and hotels
 
 </td></tr></table>
-<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture></p>
-<div align="center">
-
+<table align="center"><tr><td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg" /><img src="assets/label-tech-stack-light.svg" alt="Tech stack" /></picture>
+<br>
 <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -86,11 +86,10 @@
 <img src="https://img.shields.io/badge/Tailscale-1e1e2e?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
 <img src="https://img.shields.io/badge/FFmpeg-1e1e2e?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</td></tr></table>
 
-</div>
-
-<p align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-metrics-dark.svg" /><img src="assets/label-metrics-light.svg" alt="Metrics" /></picture></p>
-<div align="center">
+<table align="center"><tr><td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-metrics-dark.svg" /><img src="assets/label-metrics-light.svg" alt="Metrics" /></picture>
 <details>
 <summary><b>[ View Dashboard ]</b></summary>
 <br>
@@ -100,13 +99,13 @@
 <td align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="400" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/stats-light.svg" alt="GitHub Stats" width="360" />
 </picture>
 </td>
 <td align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="400" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/top-langs-light.svg" alt="Top Languages" width="360" />
 </picture>
 </td>
 </tr>
@@ -115,11 +114,11 @@
 <br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake-dark.svg" />
-<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/TMHSDigital/TMHSDigital/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="740" />
 </picture>
 </div>
 </details>
-</div>
+</td></tr></table>
 
 <div align="center"><sub>Running a restaurant or hospitality business? <a href="https://tmhsdigital.github.io/Github-Pages-Demo-1/#contact">Start a conversation</a>. If my open-source work is useful to you, you can <a href="https://github.com/sponsors/TMHSDigital">sponsor it on GitHub</a>.</sub></div>
 
